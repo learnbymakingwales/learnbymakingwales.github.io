@@ -1,5 +1,8 @@
 :root {
   --base-font-size: 16px;
+  --small-screen-font-size: 20px;
+  --bigger-screen-font-size: 25px;
+  --vertical-spacing: 45px;
 }
 
 
@@ -13,17 +16,20 @@ body {
 }
 
 .main {
-  padding: 0 15px;
+  padding: 0 20px;
+  font-size: var(--small-screen-font-size);
 }
 
 @media (min-width: 46.25em) {
   .main {
-    padding: 0 30px;
+    padding: 0 45px;
+    width: min-content;
+    font-size: var(--bigger-screen-font-size);
   }
 }
 
 .typography-header {
-  margin: 45px auto;
+  margin: 45px 0;
   max-width: 960px;
   width: min-content;
 }
@@ -34,4 +40,79 @@ body {
   font-size: clamp(60px, var(--base-font-size) + (10vw * var(--scaler)), 240px);
   font-weight: 800;
   line-height: .9;
+}
+
+.lbm-markdown-output {
+  max-width: 32em;
+  margin: 60px auto;
+}
+
+@media (min-width: 46.25em) {
+  .lbm-markdown-output {
+    margin-top: 90px;
+  }
+}
+
+.lbm-markdown-output p,
+.lbm-body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 400;
+  font-size: var(--small-screen-font-size);
+  line-height: 1.3125;
+  margin-top: 0;
+  margin-bottom: calc(var(--vertical-spacing) * (2/3));
+}
+
+@media (min-width: 46.25em) {
+  .lbm-markdown-output p,
+  .lbm-body {
+    font-size: var(--bigger-screen-font-size);
+    line-height: 1.45;
+    margin-bottom: var(--vertical-spacing);
+  }
+}
+
+.lbm-markdown-output ul {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 400;
+  font-size: var(--small-screen-font-size);
+  line-height: 1.3125;
+  margin-top: 0;
+  margin-bottom: calc(var(--vertical-spacing) * (2/3));;
+  padding-left: 0;
+  list-style-type: none;
+}
+@media (min-width: 46.25em) {
+  .lbm-markdown-output ul {
+    font-size: var(--bigger-screen-font-size);
+    line-height: 1.45;
+    margin-bottom: var(--vertical-spacing);
+  }
+}
+
+.lbm-markdown-output ul ul {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.lbm-markdown-output ul > li {
+  margin-bottom: 8px;
+}
+
+@media (min-width: 46.25em) {
+  .lbm-markdown-output ul > li {
+    margin-bottom: 5px;
+  }
+}
+
+.lbm-markdown-output ul {
+  padding-left: 20px;
+  list-style-type: disc;
+}
+
+.cj-list--number {
+  padding-left: 20px;
+  list-style-type: decimal;
 }
