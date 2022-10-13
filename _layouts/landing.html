@@ -18,16 +18,20 @@
 <body class="lang-{{page.lang}}">
   <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
 
-  {% assign pages=site.pages | where:"ref", page.ref | group_by: 'lang' %}
-  {% for altpage in pages %}
-    {% if page.lang != altpage.name %}
-      <!-- {{ altpage.items[0] }} -->
-    {% endif %}  
-  {% endfor %}
+  <main class="main">
+  
+    {% assign pages=site.pages | where:"ref", page.ref | group_by: 'lang' %}
+    {% for altpage in pages %}
+      {% if page.lang != altpage.name %}
+        <!-- {{ altpage.items[0] }} -->
+      {% endif %}  
+    {% endfor %}
 
-  <div class="typography-header">
-    <h1 class="lbm-title">{{site.t[page.lang].title}}</h1>
-  </div>
+    <div class="typography-header">
+      <h1 class="lbm-title">{{site.t[page.lang].title}}</h1>
+    </div>
+
+  </main>
 
 </body>
 </html>
