@@ -64,12 +64,22 @@ body {
   margin-bottom: calc(var(--vertical-spacing) * (2/3));
 }
 
+.lbm-markdown-output h2 {
+  font-size: 35px;
+  margin: 30px 0;
+}
+
 @media (min-width: 46.25em) {
   .lbm-markdown-output p,
   .lbm-body {
     font-size: var(--bigger-screen-font-size);
     line-height: 1.45;
     margin-bottom: var(--vertical-spacing);
+  }
+
+  .lbm-markdown-output h2 {
+    font-size: 42px;
+    margin: 45px 0;
   }
 }
 
