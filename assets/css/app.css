@@ -23,9 +23,12 @@ body {
 @media (min-width: 46.25em) {
   .main {
     padding: 0 45px;
-    width: min-content;
     font-size: var(--bigger-screen-font-size);
   }
+}
+
+.main--home {
+  width: min-content;
 }
 
 .typography-header {

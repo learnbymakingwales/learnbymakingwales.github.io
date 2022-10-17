@@ -18,18 +18,9 @@
 <body class="lang-{{page.lang}}">
   <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
 
-  <main class="main main--home">
-  
-    {% assign pages=site.pages | where:"ref", page.ref | group_by: 'lang' %}
-    {% for altpage in pages %}
-      {% if page.lang != altpage.name %}
-        <!-- {{ altpage.items[0] }} -->
-      {% endif %}  
-    {% endfor %}
+  <main class="main">
 
-    <div class="typography-header">
-      <h1 class="lbm-title">{{site.t[page.lang].title}}</h1>
-    </div>
+    <h3>{{ page.title }}</h3>
 
     <div class="lbm-markdown-output">
       {{ content }}
