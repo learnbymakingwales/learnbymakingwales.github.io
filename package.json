@@ -1,0 +1,27 @@
+{
+    "name": "learn-by-making",
+    "version": "0.1.0",
+    "description": "A bilingual site for the learn by making lab",
+    "main": "",
+    "scripts": {
+      "build:stylesheets": "npm run nps build.stylesheets",
+      "build:javascripts": "npm run nps build.javascripts",
+      "watch:javascripts": "npm run nps watch.javascripts",
+      "watch:stylesheets": "npm run nps watch.stylesheets",
+      "watch": "npm-run-all --parallel watch:*",
+      "nps": "nps -c ./node_modules/lbm-frontend/package-scripts.js"
+    },
+    "author": "Learn by making team",
+    "license": "ISC",
+    "devDependencies": {
+      "browser-sync": "^2.26.7",
+      "npm-run-all": "^4.1.5"
+    },
+    "dependencies": {
+      "lbm-frontend": "https://gitpkg.now.sh/learnbymakingwales/lbm-frontend/package?main"
+    },
+    "browserslist": [
+      "defaults"
+    ]
+  }
+  

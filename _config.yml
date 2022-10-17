@@ -5,6 +5,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+exclude: [src, node_modules, lbm-frontend.config.json, package*, Gemfile*]
+
 # Build settings
 markdown: kramdown
 # theme: minima
@@ -14,5 +16,9 @@ plugins:
 t:
   en:
     title: Learn by making.
+    language: English
+    root: /en
   cy:
     title: Dysgwch trwy greu.
+    language: Cymraeg
+    root: /cy
