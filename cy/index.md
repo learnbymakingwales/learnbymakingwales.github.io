@@ -23,4 +23,4 @@ Dysgu trwy greu yw:
 
 Bydd arbenigwyr yn eich arwain, gam wrth gam, trwy gymhwyso sgiliau dylunio sy'n canolbwyntio ar y defnyddiwr, prototeipio, dylunio cynnwys a gwasanaeth dwyieithog, ymchwil defnyddwyr, technegau darparu ystwyth, gwneud penderfyniadau a arweinir gan ddata, a gweithio'n agored.
 
-Os ydych eisiau diweddariadau gennym ni wrth i ni lunio Dysgu trwy greu, dilynwch ni ar Twitter [@dysgu_trwy_greu](https://twitter.com/dysgu_trwy_greu)
+Os ydych eisiau diweddariadau gennym ni wrth i ni lunio Dysgu trwy greu, cysylltwch â ni ar [helo@learnbymaking.wales](mailto:helo@learnbymaking.wales)
