@@ -16,13 +16,13 @@ body {
 }
 
 .main {
-  padding: 0 20px;
+  padding: 20px;
   font-size: var(--small-screen-font-size);
 }
 
 @media (min-width: 46.25em) {
   .main {
-    padding: 0 45px;
+    padding: 45px;
     font-size: var(--bigger-screen-font-size);
   }
 }
@@ -32,8 +32,16 @@ body {
   width: min-content;
 }
 
+.main--home .language-switcher {
+  /* needs this because it is behind the line height of big heading */
+  position: relative;
+  display: block;
+  margin-left: clamp(6px, 1vw, 24px);
+  z-index: 1;
+}
+
 .typography-header {
-  margin: 45px 0;
+  margin: 5px 0;
   max-width: 960px;
   width: -moz-min-content;
   width: min-content;

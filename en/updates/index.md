@@ -2,7 +2,7 @@
 title: Updates
 layout: list
 lang: en
-ref: index
+ref: updates-index
 hidetitle: True
 category: updates
 ---

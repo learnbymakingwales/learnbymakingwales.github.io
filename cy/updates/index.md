@@ -2,7 +2,7 @@
 title: Diweddariadau
 layout: list
 lang: cy
-ref: index
+ref: updates-index
 hidetitle: True
 category: updates 
 ---
