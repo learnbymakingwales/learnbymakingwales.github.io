@@ -20,9 +20,11 @@
   <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
 
   <main class="main">
-
-    <h3>{{ page.title }}</h3>
-
+    <div class="app-top-bar">
+      <h3 class="app-top-bar__title">{{ site.t[page.lang].title }}</h3>
+      {% include nav.html %}
+    </div>
+    
     <div class="lbm-markdown-output">
       {{ content }}
     </div>

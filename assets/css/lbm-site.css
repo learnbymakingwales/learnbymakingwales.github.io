@@ -92,6 +92,115 @@
   position: relative;
 }
 
+.app-top-bar .app-top-bar__title {
+  margin-bottom: 0;
+  font-size: 35px;
+  font-weight: bolder;
+  line-height: 1;
+}
+
+.app-nav--container {
+  text-align: right;
+}
+.app-nav--container label {
+  display: inline-block;
+  position: relative;
+  padding: 4px 7px 3px;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 40px;
+}
+.app-nav--container label:hover, .app-nav--container label:focus {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.app-nav--container label:focus, .app-nav--container label:active {
+  color: var(--focus-text-colour);
+  background-color: var(--focus-colour);
+  box-shadow: 0 -2px var(--focus-colour), 0 4px var(--focus-text-colour);
+  text-decoration: none;
+}
+.app-nav--container input[type=checkbox] {
+  width: 0;
+  height: 0;
+  float: left;
+  opacity: 0;
+}
+.app-nav--container input[type=checkbox]:focus + label {
+  text-decoration: underline;
+}
+@media (min-width: 27.5em) {
+  .app-nav--container label {
+    margin-right: -3em;
+  }
+}
+@media (min-width: 46.25em) {
+  .app-nav--container {
+    position: relative;
+    margin-top: -35px;
+  }
+  .app-nav--container input[type=checkbox],
+.app-nav--container label {
+    display: none;
+  }
+  .app-nav--container label {
+    margin-right: 0;
+  }
+}
+
+.app-nav {
+  margin: 30px 0 0;
+  padding: 0;
+  list-style: none;
+}
+@media (max-width: 46.24em) {
+  .app-nav {
+    display: none;
+  }
+}
+@media (min-width: 46.25em) {
+  .app-nav {
+    position: absolute;
+    display: inline-block;
+    margin: 0;
+    right: 0;
+  }
+}
+.app-nav li {
+  font-family: "Open Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 15px 0;
+  text-align: center;
+  width: calc(100% + 1.5em);
+}
+@media (min-width: 27.5em) {
+  .app-nav li {
+    width: calc(100% + 3em);
+  }
+}
+@media (min-width: 46.25em) {
+  .app-nav li {
+    display: inline-block;
+    padding: 5px 15px 5px 15px;
+    width: unset;
+  }
+}
+.app-nav li a {
+  color: #323232;
+  font-weight: bold;
+  text-decoration: none;
+}
+.app-nav li:hover {
+  border-color: #323232;
+}
+.app-nav li:hover a {
+  text-decoration: underline;
+}
+.app-nav li:last-child {
+  margin-right: -15px;
+}
+
 .app-nav--landing__container {
   text-align: right;
   margin-top: -47.5px;

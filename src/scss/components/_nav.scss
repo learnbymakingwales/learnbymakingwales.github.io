@@ -5,6 +5,128 @@ $menu-right-offset-small: 1.5em;
   position: relative;
 }
 
+.app-top-bar {
+  .app-top-bar__title {
+    margin-bottom: 0;
+    font-size: 35px;
+    font-weight: bolder;
+    line-height: 1;
+  }
+}
+
+.app-nav--container {
+  text-align: right;
+
+  label {
+    display: inline-block; // stops the tiny gap below element
+    position: relative;
+    padding: 4px 7px 3px;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 40px;
+  
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+      cursor: pointer;
+    }
+
+    &:focus,
+    &:active {
+      @include lbm-focused-text;
+    }
+  }
+
+  input[type=checkbox] {
+    width: 0;
+    height: 0;
+    // takes checkbox out of flow
+    // means nav element has height 0 when collapsed
+    float: left;
+    opacity: 0;
+
+    &:focus + label {
+      text-decoration: underline; 
+    }
+  }
+
+  @include mq($from: 440px) {
+    label {
+      margin-right: -$menu-right-offset;
+    }
+  }
+
+  @include mq($from: tablet) {
+    position: relative;
+    margin-top: -35px; // same as height of title text
+
+    input[type=checkbox],
+    label {
+      display: none;
+    }
+
+    label {
+      margin-right: 0;
+    }
+  }
+}
+
+.app-nav {
+  @include mq($until: tablet) {
+    display: none;
+  }
+
+  margin: 30px 0 0;
+  padding: 0;
+  list-style: none;
+
+  @include mq($from: tablet) {
+    position: absolute;
+    display: inline-block;
+    margin: 0;
+    right: 0;
+  }
+
+  li {
+    @include lbm-typography-common;
+    padding: 15px 0;
+    text-align: center;
+    width: calc(100% + #{$menu-right-offset-small});
+
+    @include mq($from: 440px) {
+      width: calc(100% + #{$menu-right-offset});
+    }
+
+    @include mq($from: tablet) {
+      display: inline-block;
+      padding: 5px 15px 5px 15px;
+      width: unset;
+    }
+
+    a {
+      color: $cdps-dark-grey;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    &:hover {
+      border-color: $cdps-dark-grey;
+      
+      a {
+        text-decoration: underline;
+      }
+    }
+
+    &:last-child {
+      margin-right: -15px;
+    }
+  }
+}
+
+
+// specific to landing page
+// -----------------------------------------
+
 .app-nav--landing__container {
   text-align: right;
   margin-top: calc((1.375 * 20px + 20px) * -1);
