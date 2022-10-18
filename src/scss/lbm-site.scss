@@ -2,6 +2,9 @@
 
 @import "utilities/visually-hidden";
 
+@import "components/language-switcher";
+@import "components/nav";
+
 .lbm-markdown-output {
   a {
     @extend %lbm-link;

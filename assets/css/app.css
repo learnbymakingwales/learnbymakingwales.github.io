@@ -3,6 +3,7 @@
   --small-screen-font-size: 20px;
   --bigger-screen-font-size: 25px;
   --vertical-spacing: 45px;
+  --scaler: 1.6;
 }
 
 
@@ -35,7 +36,6 @@ body {
 .main--home .language-switcher {
   /* needs this because it is behind the line height of big heading */
   position: relative;
-  display: block;
   margin-left: clamp(6px, 1vw, 24px);
   z-index: 1;
 }
@@ -45,6 +45,7 @@ body {
   max-width: 960px;
   width: -moz-min-content;
   width: min-content;
+  /* font-size: clamp(60px, var(--base-font-size) + (10vw * var(--scaler)), 240px); */
 }
 
 .lbm-title {

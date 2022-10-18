@@ -19,7 +19,11 @@ t:
     title: Learn by making.
     language: English
     root: /en
+    updates: Updates
+    materials: Materials
   cy:
     title: Dysgwch trwy greu.
     language: Cymraeg
     root: /cy
+    updates: Diweddariadau
+    materials: Defnyddiau
