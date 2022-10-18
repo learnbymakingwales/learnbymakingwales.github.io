@@ -27,7 +27,7 @@
     {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
     {% for altpage in pages %}
       {% if page.lang != altpage.lang %}
-      <a class="language-switcher" href="{{ altpage.url }}">
+      <a class="lbm-link language-switcher" href="{{ altpage.url }}">
         <span class="lbm-visually-hidden">View in </span>
         {{site.t[altpage.lang].language}}
       </a>

@@ -2,3 +2,8 @@
 
 @import "utilities/visually-hidden";
 
+.lbm-markdown-output {
+  a {
+    @extend %lbm-link;
+  }
+}
