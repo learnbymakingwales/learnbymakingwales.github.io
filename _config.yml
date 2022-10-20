@@ -20,10 +20,10 @@ t:
     language: English
     root: /en
     updates: Updates
-    materials: Materials
+    sessions: Sessions
   cy:
     title: Dysgwch trwy greu
     language: Cymraeg
     root: /cy
     updates: Diweddariadau
-    materials: Defnyddiau
+    sessions: Sesiynau
