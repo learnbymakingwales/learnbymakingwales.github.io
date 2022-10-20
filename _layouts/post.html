@@ -19,13 +19,26 @@
 <body class="lang-{{page.lang}}">
   <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
 
+  <div class="app-top-bar">
+    <h3 class="app-top-bar__title">{{ site.t[page.lang].title }}</h3>
+    {% include nav.html %}
+  </div>
+
   <main class="main">
-    <div class="app-top-bar">
-      <h3 class="app-top-bar__title">{{ site.t[page.lang].title }}</h3>
-      {% include nav.html %}
+
+    <div class="lbm-container">
+      {% assign pages=site.posts | where:"ref", page.ref | sort: 'lang' %}
+      {% for altpage in pages %}
+        {% if page.lang != altpage.lang %}
+        <a class="language-switcher app-language-switcher" href="{{ altpage.url }}">
+          <span class="lbm-visually-hidden">View in </span>
+          {{site.t[altpage.lang].language}}
+        </a>
+        {% endif %}
+      {% endfor %}
     </div>
-    
-    <div class="lbm-markdown-output">
+
+    <div class="lbm-container lbm-markdown-output">
       {{ content }}
     </div>
 
