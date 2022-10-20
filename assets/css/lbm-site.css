@@ -5,6 +5,11 @@
   --focus-text-colour: #000;
 }
 
+.lbm-container {
+  margin: 0 auto;
+  max-width: 32em;
+}
+
 .lbm-markdown-output a, .lbm-link {
   --link-hover-underline-colour: var(--link-hover-colour);
   --link-active-colour: var(--link-hover-colour);
@@ -86,6 +91,91 @@
   font-size: 20px;
   font-weight: 700;
   padding: 10px 20px;
+}
+
+.lbm-markdown-output {
+  margin-top: 60px;
+}
+@media (min-width: 46.25em) {
+  .lbm-markdown-output {
+    margin-top: 90px;
+  }
+}
+.lbm-markdown-output h1 {
+  font-size: 42px;
+}
+@media (min-width: 46.25em) {
+  .lbm-markdown-output h1 {
+    font-size: 60px;
+  }
+}
+.lbm-markdown-output h2 {
+  font-size: 32px;
+  margin: 30px 0;
+}
+@media (min-width: 46.25em) {
+  .lbm-markdown-output h2 {
+    font-size: 42px;
+    margin: 45px 0;
+  }
+}
+.lbm-markdown-output h3 {
+  font-size: 25px;
+}
+@media (min-width: 46.25em) {
+  .lbm-markdown-output h3 {
+    font-size: 32px;
+  }
+}
+.lbm-markdown-output p {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin-top: 0;
+  margin-bottom: calc(var(--vertical-spacing) * 0.6666666667);
+  font-weight: 400;
+  font-size: var(--small-screen-font-size);
+  line-height: 1.3125;
+}
+@media (min-width: 46.25em) {
+  .lbm-markdown-output p {
+    font-size: var(--bigger-screen-font-size);
+    line-height: 1.45;
+    margin-bottom: var(--vertical-spacing);
+  }
+}
+.lbm-markdown-output ul {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 400;
+  font-size: var(--small-screen-font-size);
+  line-height: 1.3125;
+  margin-top: 0;
+  margin-bottom: calc(var(--vertical-spacing) * 0.6666666667);
+  padding-left: 0;
+  list-style-type: none;
+}
+@media (min-width: 46.25em) {
+  .lbm-markdown-output ul {
+    font-size: var(--bigger-screen-font-size);
+    line-height: 1.45;
+    margin-bottom: var(--vertical-spacing);
+  }
+}
+.lbm-markdown-output ul ul {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.lbm-markdown-output ul > li {
+  margin-bottom: 8px;
+}
+@media (min-width: 46.25em) {
+  .lbm-markdown-output ul > li {
+    margin-bottom: 5px;
+  }
+}
+.lbm-markdown-output ul {
+  padding-left: 20px;
+  list-style-type: disc;
 }
 
 .typography-header {
@@ -352,4 +442,16 @@
   .lbm-title {
     margin-top: 0;
   }
+}
+
+.lbm-container:first-of-type {
+  margin-top: 60px;
+}
+@media (min-width: 46.25em) {
+  .lbm-container:first-of-type {
+    margin-top: 90px;
+  }
+}
+.lbm-container + .lbm-container {
+  margin-top: 30px;
 }
