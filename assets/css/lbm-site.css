@@ -451,6 +451,15 @@
   }
 }
 
+:root {
+  --accent-colour: #007361;
+}
+
+.lbm-title span,
+.app-top-bar__title span {
+  color: var(--accent-colour);
+}
+
 .lbm-container:first-of-type {
   margin-top: 60px;
 }
