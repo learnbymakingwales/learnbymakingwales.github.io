@@ -23,6 +23,15 @@ $menu-right-offset-small: 1.5em;
     }
   }
 
+  a {
+    color: var(--text-colour);
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
   @include mq($until: 440px) {
     --top-bar-font-size: 25px;
   }

@@ -200,6 +200,13 @@
     font-size: 25px;
   }
 }
+.app-top-bar a {
+  color: var(--text-colour);
+  text-decoration: none;
+}
+.app-top-bar a:hover {
+  text-decoration: underline;
+}
 @media (max-width: 27.5em) {
   .app-top-bar {
     --top-bar-font-size: 25px;
