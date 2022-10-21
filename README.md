@@ -1,6 +1,6 @@
 # jekyll-site
 
-Site for Learn by making Wales
+Site for [Learnbymaking.wales](https://learnbymaking.wales/)
 
 ## Getting started
 
