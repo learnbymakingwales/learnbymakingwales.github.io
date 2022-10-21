@@ -1,5 +1,5 @@
 ---
-title: Sesiynau
+title: Y labordai
 layout: list
 lang: cy
 ref: sessions-index
