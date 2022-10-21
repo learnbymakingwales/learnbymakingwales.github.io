@@ -5,7 +5,7 @@ ref: index
 hidetitle: True
 ---
 
-Mae Dysgu trwy greu yn cael ei noddi gan Ganolfan [Gwasanaethau Cyhoeddus Digidol](https://gwasanaethaucyhoeddusdigidol.llyw.cymru/) (CDPS) yng Nghymru, i gynnal arbrawf byr i archwilio sut mae pobl yn dysgu trwy greu pethau.
+Mae Dysgu trwy greu yn cael ei noddi gan [Ganolfan Gwasanaethau Cyhoeddus Digidol](https://gwasanaethaucyhoeddusdigidol.llyw.cymru/) (CDPS) yng Nghymru, i gynnal arbrawf byr i archwilio sut mae pobl yn dysgu trwy greu pethau.
 
 Mae'n labordy digidol sy'n rhoi rhyddid i bobl feddwl yn wahanol. Byddwch yn dysgu sut i ddatrys problemau mewn grŵp, heb y cyfyngiadau a all fodoli yn eich sefydliad, yn ogystal â sut mae canolbwyntio ar ddefnyddwyr yn helpu i adeiladu gwasanaethau gwell.
 
