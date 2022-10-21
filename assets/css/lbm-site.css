@@ -1,79 +1,19 @@
-:root {
-  --link-colour: #0360a6;
-  --link-hover-colour: #3b7dc5;
-  --focus-colour: #ffd530;
-  --focus-text-colour: #000;
-}
+/* Error: Undefined mixin.
+ *   ,
+ * 4 | /   @include mq($from: tablet) {
+ * 5 | |     margin-top: 90px;
+ * 6 | \   }
+ *   '
+ *   src/scss/components/_markdown-container.scss 4:3  @import
+ *   src/scss/lbm-site.scss 6:9                        root stylesheet */
 
-.lbm-markdown-output a, .lbm-link {
-  --link-hover-underline-colour: var(--link-hover-colour);
-  --link-active-colour: var(--link-hover-colour);
-  font-family: "Open Sans", sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-decoration: underline;
-  text-decoration-thickness: max(1px, .0625rem);
-  text-underline-offset: 0.1em;
-}
-.lbm-markdown-output a:link, .lbm-link:link {
-  color: var(--link-colour);
-}
-.lbm-markdown-output a:visited, .lbm-link:visited {
-  color: var(--link-colour);
-}
-.lbm-markdown-output a:hover, .lbm-link:hover {
-  color: var(--link-hover-colour);
-  text-decoration-color: var(--link-hover-underline-colour);
-  text-decoration-thickness: max(3px, .1875rem, .12em);
-  -webkit-text-decoration-skip-ink: none;
-  text-decoration-skip-ink: none;
-  -webkit-text-decoration-skip: none;
-  text-decoration-skip: none;
-}
-.lbm-markdown-output a:active, .lbm-link:active {
-  color: var(--link-active-colour);
-}
-.lbm-markdown-output a:focus, .lbm-link:focus {
-  color: var(--focus-text-colour);
-  background-color: var(--focus-colour);
-  box-shadow: 0 -2px var(--focus-colour), 0 4px var(--focus-text-colour);
-  text-decoration: none;
-  color: var(--focus-text-colour);
-}
-
-.lbm-visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  padding: 0;
-  overflow: hidden;
-  clip: rect(0 0 0 0);
-  -webkit-clip-path: inset(50%);
-          clip-path: inset(50%);
-  border: 0;
-  white-space: nowrap;
-}
-
-.lbm-visually-hidden-focusable {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0 0 0 0);
-  -webkit-clip-path: inset(50%);
-          clip-path: inset(50%);
-  white-space: nowrap;
-}
-.lbm-visually-hidden-focusable:active, .lbm-visually-hidden-focusable:focus {
-  position: static;
-  width: auto;
-  height: auto;
-  margin: inherit;
-  overflow: visible;
-  clip: auto;
-  -webkit-clip-path: none;
-          clip-path: none;
-  white-space: inherit;
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Undefined mixin.\a   \2577 \a 4 \2502  \250c    @include mq($from: tablet) {\a 5 \2502  \2502      margin-top: 90px;\a 6 \2502  \2514    }\a   \2575 \a   src/scss/components/_markdown-container.scss 4:3  @import\a   src/scss/lbm-site.scss 6:9                        root stylesheet";
 }

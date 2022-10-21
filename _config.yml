@@ -16,10 +16,14 @@ plugins:
 
 t:
   en:
-    title: Learn by making.
+    title: Learn by making
     language: English
     root: /en
+    updates: Updates
+    sessions: Sessions
   cy:
-    title: Dysgwch trwy greu.
+    title: Dysgwch trwy greu
     language: Cymraeg
     root: /cy
+    updates: Diweddariadau
+    sessions: Sesiynau

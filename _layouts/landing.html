@@ -27,7 +27,7 @@
     {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
     {% for altpage in pages %}
       {% if page.lang != altpage.lang %}
-      <a class="lbm-link language-switcher" href="{{ altpage.url }}">
+      <a class="language-switcher app-language-switcher" href="{{ altpage.url }}">
         <span class="lbm-visually-hidden">View in </span>
         {{site.t[altpage.lang].language}}
       </a>
@@ -42,7 +42,8 @@
     {% endfor %}
 
     <div class="typography-header">
-      <h1 class="lbm-title">{{site.t[page.lang].title}}</h1>
+      {% include nav--landing.html %}
+      <h1 class="lbm-title">{{site.t[page.lang].title}}<span>.</span></h1>
     </div>
 
     <div class="lbm-markdown-output">
