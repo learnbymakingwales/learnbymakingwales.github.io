@@ -177,6 +177,9 @@
   padding-left: 20px;
   list-style-type: disc;
 }
+.lbm-markdown-output img {
+  max-width: 100%;
+}
 
 .typography-header {
   position: relative;
