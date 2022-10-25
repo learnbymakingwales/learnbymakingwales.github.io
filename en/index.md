@@ -5,7 +5,7 @@ ref: index
 hidetitle: True
 ---
 
-Learn by making is sponsored by the Centre for Digital Public Services (CDPS) in Wales to run a short experiment to explore how people learn by making things.  
+Learn by making is sponsored by the [Centre for Digital Public Services](https://digitalpublicservices.gov.wales) (CDPS) in Wales to run a short experiment to explore how people learn by making things.  
 
 It’s a digital lab giving people the freedom to think differently. You’ll learn how to solve problems in a group without the constraints that may exist in your organisation, and how focusing on users helps build better services.
 

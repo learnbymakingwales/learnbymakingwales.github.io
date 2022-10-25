@@ -6,24 +6,54 @@ $menu-right-offset-small: 1.5em;
 }
 
 .app-top-bar {
+  --top-bar-font-size: 32px;
+  position: relative;
+  padding: 30px 15px;
+
   .app-top-bar__title {
+    display: inline-block;
+    margin-top: 0;
     margin-bottom: 0;
-    font-size: 35px;
+    font-size: var(--top-bar-font-size);
     font-weight: bolder;
     line-height: 1;
+
+    @include mq($until: 440px) {
+      font-size: 25px;
+    }
+  }
+
+  a {
+    color: var(--text-colour);
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  @include mq($until: 440px) {
+    --top-bar-font-size: 25px;
+  }
+
+  @include mq($from: tablet) {
+    display: flex;
+    padding: 30px;
   }
 }
 
 .app-nav--container {
-  text-align: right;
+  line-height: var(--top-bar-font-size);
 
   label {
     display: inline-block; // stops the tiny gap below element
-    position: relative;
+    position: absolute;
     padding: 4px 7px 3px;
     font-weight: bold;
     font-size: 20px;
-    line-height: 40px;
+    line-height: var(--top-bar-font-size);
+    top: 30px - 2px; // bar padding
+    right: 15px;
   
     &:hover,
     &:focus {
@@ -52,13 +82,15 @@ $menu-right-offset-small: 1.5em;
 
   @include mq($from: 440px) {
     label {
-      margin-right: -$menu-right-offset;
+      //margin-right: -$menu-right-offset;
     }
   }
 
   @include mq($from: tablet) {
-    position: relative;
-    margin-top: -35px; // same as height of title text
+    //position: relative;
+    //margin-top: -32px; // same as height of title text
+    flex-grow: 1;
+    text-align: right;
 
     input[type=checkbox],
     label {
@@ -67,6 +99,7 @@ $menu-right-offset-small: 1.5em;
 
     label {
       margin-right: 0;
+      right: 30px;
     }
   }
 }
@@ -76,37 +109,39 @@ $menu-right-offset-small: 1.5em;
     display: none;
   }
 
-  margin: 30px 0 0;
+  margin: 20px 0 0;
   padding: 0;
   list-style: none;
 
   @include mq($from: tablet) {
-    position: absolute;
     display: inline-block;
     margin: 0;
-    right: 0;
   }
 
   li {
     @include lbm-typography-common;
-    padding: 15px 0;
-    text-align: center;
-    width: calc(100% + #{$menu-right-offset-small});
-
-    @include mq($from: 440px) {
-      width: calc(100% + #{$menu-right-offset});
-    }
+    padding: 0;
+    border-bottom: 1px solid grey;
+    font-size: 20px;
 
     @include mq($from: tablet) {
       display: inline-block;
-      padding: 5px 15px 5px 15px;
       width: unset;
+      border-bottom: none;
     }
 
     a {
+      display: block;
+      padding: 15px 0;
       color: $cdps-dark-grey;
       font-weight: bold;
+      text-align: center;
       text-decoration: none;
+
+      @include mq($from: tablet) {
+        display: inline-block;
+        padding: 5px 15px 5px 15px;
+      }
     }
 
     &:hover {
@@ -118,8 +153,16 @@ $menu-right-offset-small: 1.5em;
     }
 
     &:last-child {
-      margin-right: -15px;
+      @include mq($from: tablet) {
+        margin-right: -15px;
+      }
     }
+  }
+}
+
+.app-nav__toggle:checked {
+  & ~ .app-nav {
+    display: block;
   }
 }
 

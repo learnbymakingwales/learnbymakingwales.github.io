@@ -1,35 +1,18 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang }}" dir="ltr">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+{% assign title=page.title | append: " | " | append: site.t[page.lang].title  %}
+{% include pageStart.html title=title %}
 
-  <title>Learn by making Wales</title>
+{% include topbar.html %}
 
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<main class="main">
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,400;1,600;1,700&family=Work+Sans:wght@300;400;600;700;800;900&display=swap" rel="stylesheet">
+  <div class="lbm-container">
+    {% include language-toggle.html pages=site.posts %}
+  </div>
 
-  <link rel="stylesheet" media="all" href="{{site.baseurl}}/assets/css/app.css" />
-  <link rel="stylesheet" media="all" href="{{site.baseurl}}/assets/css/lbm-site.css" />
-</head>
+  <div class="lbm-container lbm-markdown-output">
+    {{ content }}
+  </div>
 
-<body class="lang-{{page.lang}}">
-  <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+</main>
 
-  <main class="main">
-    <div class="app-top-bar">
-      <h3 class="app-top-bar__title">{{ site.t[page.lang].title }}</h3>
-      {% include nav.html %}
-    </div>
-    
-    <div class="lbm-markdown-output">
-      {{ content }}
-    </div>
-
-  </main>
-
-</body>
-</html>
+{% include pageEnd.html %}

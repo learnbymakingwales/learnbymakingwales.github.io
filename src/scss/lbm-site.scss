@@ -3,10 +3,30 @@
 @import "utilities/visually-hidden";
 
 @import "components/language-switcher";
+@import "components/markdown-container";
 @import "components/nav";
 
-.lbm-markdown-output {
-  a {
-    @extend %lbm-link;
+:root {
+  --accent-colour: #{$cdps-green};
+}
+
+.lbm-title,
+.app-top-bar__title {
+  span {
+    color: var(--accent-colour);
+  }
+}
+
+.lbm-container {
+  &:first-of-type {
+    margin-top: 60px;
+  
+    @include mq($from: tablet) {
+      margin-top: 90px;
+    }
+  }
+  
+  & + .lbm-container {
+    margin-top: 30px;
   }
 }
