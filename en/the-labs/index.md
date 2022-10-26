@@ -17,10 +17,10 @@ We have 4 themes which we see as the most important parts of learning by making.
 
 The themes are:
 
-* **Introducing agile service design** - Introducing techniques with practical activities and fast-paced design challenges 
+* **introducing agile service design** - introducing techniques with practical activities and fast-paced design challenges 
 
-* **How to research the problem space** - Experience qualitative and quantative research techniques and learn how to identify and prioritise problems to solve
+* **how to research the problem space** - experience qualitative and quantative research techniques and learn how to identify and prioritise problems to solve
 
-* **How to learn by making** - Design and build protoypes to test your assumptions and learn about real users
+* **how to learn by making** - design and build protoypes to test your assumptions and learn about real users
 
-* **How to build momentum** - Explore how sharing in the open builds momentum
+* **how to build momentum** - explore how sharing in the open builds momentum
