@@ -1,0 +1,33 @@
+.main {
+  padding: var(--page-padding-small);
+  font-size: var(--small-screen-font-size);
+}
+
+@media (min-width: 46.25em) {
+  .main {
+    padding: var(--page-padding-large);
+    font-size: var(--bigger-screen-font-size);
+  }
+}
+
+.main--home {
+  box-sizing: border-box;
+  // need to align this with padding
+  width: 100%;
+  max-width: 100%;
+
+  @include mq($from: tablet) {
+    position: relative;
+  }
+
+  @include mq($from: desktop) {
+    width: 32em;
+  }
+}
+
+.main--home .language-switcher {
+  /* needs this because it is behind the line height of big heading */
+  position: relative;
+  margin-left: clamp(6px, 1vw, 24px);
+  z-index: 1;
+}

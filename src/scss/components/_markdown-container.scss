@@ -3,6 +3,12 @@
 
   @include mq($from: tablet) {
     margin-top: 90px;
+    max-width: 27em;
+  }
+
+  @include mq($from: desktop) {
+    margin-top: 90px;
+    max-width: 32em;
   }
 
   h1 {

@@ -23,7 +23,7 @@ t:
     sessions: Sessions
     labs: The labs
   cy:
-    title: Dysgwch trwy greu
+    title: Dysgu trwy greu
     language: Cymraeg
     root: /cy
     updates: Diweddariadau

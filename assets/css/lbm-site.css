@@ -46,6 +46,11 @@
   color: var(--focus-text-colour);
 }
 
+:root {
+  --page-padding-small: 20px;
+  --page-padding-large: 45px;
+}
+
 .lbm-visually-hidden {
   position: absolute;
   width: 1px;
@@ -83,6 +88,40 @@
   white-space: inherit;
 }
 
+.main {
+  padding: var(--page-padding-small);
+  font-size: var(--small-screen-font-size);
+}
+
+@media (min-width: 46.25em) {
+  .main {
+    padding: var(--page-padding-large);
+    font-size: var(--bigger-screen-font-size);
+  }
+}
+.main--home {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+}
+@media (min-width: 46.25em) {
+  .main--home {
+    position: relative;
+  }
+}
+@media (min-width: 61.25em) {
+  .main--home {
+    width: 32em;
+  }
+}
+
+.main--home .language-switcher {
+  /* needs this because it is behind the line height of big heading */
+  position: relative;
+  margin-left: clamp(6px, 1vw, 24px);
+  z-index: 1;
+}
+
 .app-language-switcher {
   display: inline-block;
   background: 0 0;
@@ -99,6 +138,13 @@
 @media (min-width: 46.25em) {
   .lbm-markdown-output {
     margin-top: 90px;
+    max-width: 27em;
+  }
+}
+@media (min-width: 61.25em) {
+  .lbm-markdown-output {
+    margin-top: 90px;
+    max-width: 32em;
   }
 }
 .lbm-markdown-output h1 {
@@ -179,10 +225,6 @@
 }
 .lbm-markdown-output img {
   max-width: 100%;
-}
-
-.typography-header {
-  position: relative;
 }
 
 .app-top-bar {
@@ -338,7 +380,6 @@
   display: inline-block;
   position: relative;
   padding: 4px 7px 3px;
-  margin-right: -1.5em;
   font-weight: bold;
   font-size: 20px;
   line-height: 40px;
@@ -361,11 +402,6 @@
 }
 .app-nav--landing__container input[type=checkbox]:focus + label {
   text-decoration: underline;
-}
-@media (min-width: 27.5em) {
-  .app-nav--landing__container label {
-    margin-right: -3em;
-  }
 }
 @media (min-width: 46.25em) {
   .app-nav--landing__container {
@@ -394,7 +430,7 @@
   .app-nav--landing {
     position: absolute;
     margin: 0;
-    right: -3em;
+    right: 0;
     top: 1em;
   }
 }
@@ -404,12 +440,6 @@
   -moz-osx-font-smoothing: grayscale;
   padding: 15px 0;
   text-align: center;
-  width: calc(100% + 1.5em);
-}
-@media (min-width: 27.5em) {
-  .app-nav--landing li {
-    width: calc(100% + 3em);
-  }
 }
 @media (min-width: 46.25em) {
   .app-nav--landing li {
@@ -417,7 +447,6 @@
     padding: 5px 15px 5px 0;
     border-right: 3px solid #999;
     text-align: right;
-    width: unset;
   }
 }
 .app-nav--landing li a {
@@ -435,10 +464,36 @@
   margin-bottom: 0;
 }
 
+.app-nav--landing {
+  --top-buffer: calc(50px + var(--page-padding-large) + 25px);
+  top: var(--top-buffer);
+  right: var(--page-padding-large);
+}
+@media (min-width: 61.25em) {
+  .app-nav--landing {
+    right: -15vw;
+  }
+}
+@media (min-width: 81.25em) {
+  .app-nav--landing {
+    right: -20vw;
+  }
+}
+
+@media (min-width: 61.25em) {
+  .lang-en .app-nav--landing {
+    top: 140px;
+  }
+}
+@media (min-width: 81.25em) {
+  .lang-en .app-nav--landing {
+    top: 165px;
+  }
+}
+
 .lang-cy .app-nav--landing {
-  top: unset;
-  bottom: 0;
-  right: 0;
+  --heading-height: clamp(60px, var(--base-font-size) + (10vw * var(--scaler)), 240px);
+  top: calc(var(--heading-height) * 2 + var(--top-buffer));
 }
 
 .app-nav--landing__toggle:checked ~ .app-nav--landing {

@@ -2,7 +2,7 @@ $menu-right-offset: 3em;
 $menu-right-offset-small: 1.5em;
 
 .typography-header {
-  position: relative;
+  //position: relative;
 }
 
 .app-top-bar {
@@ -166,7 +166,7 @@ $menu-right-offset-small: 1.5em;
   }
 }
 
-
+// -----------------------------------------
 // specific to landing page
 // -----------------------------------------
 
@@ -178,8 +178,6 @@ $menu-right-offset-small: 1.5em;
     display: inline-block; // stops the tiny gap below element
     position: relative;
     padding: 4px 7px 3px;
-    margin-right: -$menu-right-offset-small;
-    //border: 4px solid #999;
     font-weight: bold;
     font-size: 20px;
     line-height: 40px;
@@ -209,12 +207,6 @@ $menu-right-offset-small: 1.5em;
     }
   }
 
-  @include mq($from: 440px) {
-    label {
-      margin-right: -$menu-right-offset;
-    }
-  }
-
   @include mq($from: tablet) {
     margin-top: 0;
 
@@ -241,7 +233,7 @@ $menu-right-offset-small: 1.5em;
   @include mq($from: tablet) {
     position: absolute;
     margin: 0;
-    right: -$menu-right-offset;
+    right: 0;
     top: 1em;
   }
 
@@ -249,18 +241,12 @@ $menu-right-offset-small: 1.5em;
     @include lbm-typography-common;
     padding: 15px 0;
     text-align: center;
-    width: calc(100% + #{$menu-right-offset-small});
-
-    @include mq($from: 440px) {
-      width: calc(100% + #{$menu-right-offset});
-    }
 
     @include mq($from: tablet) {
       margin-bottom: 30px;
       padding: 5px 15px 5px 0;
       border-right: 3px solid #999;
       text-align: right;
-      width: unset;
     }
 
     a {
@@ -283,16 +269,41 @@ $menu-right-offset-small: 1.5em;
   }
 }
 
+.app-nav--landing {
+  // lang button 50 + top padding 45 + buffer 25
+  --top-buffer: calc(50px + var(--page-padding-large) + 25px);
+  top: var(--top-buffer);
+  right: var(--page-padding-large);
+
+  @include mq($from: desktop) {
+    right: -(15vw);
+  }
+
+  @include mq($from: wide) {
+    right: -(20vw);
+  }
+}
+
+.lang-en {
+  .app-nav--landing {
+    @include mq($from: desktop) {
+      top: 140px;
+    }
+  
+    @include mq($from: wide) {
+      top: 165px;
+    }
+  }
+}
+
 .lang-cy {
   .app-nav--landing {
-    top: unset;
-    bottom: 0;
-    right: 0;
+    --heading-height: clamp(60px, var(--base-font-size) + (10vw * var(--scaler)), 240px);
+    top: calc(var(--heading-height) * 2 + var(--top-buffer));
   }
 }
 
 .app-nav--landing__toggle:checked {
-  & + label {}
   & ~ .app-nav--landing {
     display: block;
   }

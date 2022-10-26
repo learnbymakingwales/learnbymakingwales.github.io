@@ -1,6 +1,9 @@
 @import "lbm-frontend/lbm-frontend";
 
+@import "settings/all";
+
 @import "utilities/visually-hidden";
+@import "objects/all";
 
 @import "components/language-switcher";
 @import "components/markdown-container";
