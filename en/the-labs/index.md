@@ -21,6 +21,6 @@ The themes are:
 
 * **How to research the problem space** - Experience qualitative and quantative research techniques and learn how they help identify problems to solve
 
-* **How to learn by making** - Design and build protoypes to test your assumption and learn more about real users
+* **How to learn by making** - Design and build protoypes to test your assumptions and learn about real users
 
 * **How to build momentum** - Explore how sharing in the open builds momentum
