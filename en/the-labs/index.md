@@ -19,5 +19,5 @@ The themes are:
 
 * Introducing agile service design
 * How to research the problem space
-* How to learning by making
+* How to learn by making
 * How to build momentum
