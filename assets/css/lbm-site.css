@@ -1,8 +1,9 @@
 :root {
-  --link-colour: #0360a6;
-  --link-hover-colour: #3b7dc5;
-  --focus-colour: #ffd530;
-  --focus-text-colour: #000;
+  --text-colour: #0a0908;
+  --link-colour: #3d80a4;
+  --link-hover-colour: #6aa7c8;
+  --focus-colour: #fbb84b;
+  --focus-text-colour: var(--text-colour);
 }
 
 .lbm-container {
@@ -120,6 +121,11 @@
   position: relative;
   margin-left: clamp(6px, 1vw, 24px);
   z-index: 1;
+}
+
+.app-phonetic {
+  --phonetic-colour: #e33b43;
+  color: var(--phonetic-colour);
 }
 
 .app-language-switcher {
