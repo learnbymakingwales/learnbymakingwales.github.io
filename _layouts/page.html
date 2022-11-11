@@ -1,0 +1,18 @@
+{% assign title=page.title | append: " | " | append: site.t[page.lang].title  %}
+{% include pageStart.html title=title %}
+
+{% include topbar.html %}
+
+<main class="main">
+
+  <div class="lbm-container">
+    {% include language-toggle.html pages=site.pages %}
+  </div>
+
+  <div class="lbm-container lbm-markdown-output">
+    {{ content }}
+  </div>
+
+</main>
+
+{% include pageEnd.html %}
