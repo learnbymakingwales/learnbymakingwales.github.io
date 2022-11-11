@@ -59,44 +59,15 @@
 
   // list styles
   ul {
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    font-weight: 400;
-    font-size: var(--small-screen-font-size);
-    line-height: 1.3125;
-    margin-top: 0;
-    margin-bottom: calc(var(--vertical-spacing) * (2/3));;
-    padding-left: 0;
-    list-style-type: none;
-
-    @include mq($from: tablet) {
-      font-size: var(--bigger-screen-font-size);
-      line-height: 1.45;
-      margin-bottom: var(--vertical-spacing);
-    }
-
-    ul {
-      margin-top: 10px;
-      margin-bottom: 10px;
-    }
-
-    & > li {
-      margin-bottom: 8px;
-
-      @include mq($from: tablet) {
-        margin-bottom: 5px;
-      }
-    }
+    @extend %lbm-list;
   }
   
   // bullet list specific styles
   ul {
-    padding-left: 20px;
-    list-style-type: disc;
+    @extend %lbm-list--bullet;
   }
 
   img {
     max-width: 100%;
-  }
-  
+  } 
 }

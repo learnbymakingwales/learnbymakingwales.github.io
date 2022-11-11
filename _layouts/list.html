@@ -8,10 +8,10 @@
 
   <div class="lbm-container">
     <h1>{{ page.title }}</h1>
-    <ul>
+    <ul class="lbm-list lbm-list--bullet">
       {% assign subpages=site.categories[page.category] | where:"lang", page.lang %}
       {% for p in subpages %}
-      <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+      <li><a class="lbm-link" href="{{ p.url }}">{{ p.title }}</a></li>
       {% endfor %}
     </ul>
     
