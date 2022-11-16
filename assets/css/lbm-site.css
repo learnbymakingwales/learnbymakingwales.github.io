@@ -507,7 +507,7 @@
 
 .lang-cy .app-nav--landing {
   --heading-height: clamp(60px, var(--base-font-size) + (10vw * var(--scaler)), 240px);
-  top: calc(var(--heading-height) * 2 + var(--top-buffer));
+  top: calc(var(--heading-height) * 1.25 + var(--top-buffer));
 }
 
 .app-nav--landing__toggle:checked ~ .app-nav--landing {
