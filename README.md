@@ -1,4 +1,4 @@
-# jekyll-site
+# Learn by making site
 
 Site for [Learnbymaking.wales](https://learnbymaking.wales/), a lab for building digital capability across the public sector in Wales.
 
