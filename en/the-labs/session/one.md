@@ -41,4 +41,4 @@ During the first session we'll make:
 
 Inspired by Emily Webber's [team manual](https://emilywebber.co.uk/the-team-manual-a-exercise-to-help-build-empathy-in-teams/) and using Cassie Robinson's [template](https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694) we've created our own version of the 'manual of me'.
 
-[Download the Dysgu trwy greu 'manual of me'](/assets/resources/learn-by-making-manual-of-me.png).
+[Download the Dysgu trwy greu 'manual of me'](/en/resource/learn-by-making-manual-of-me.png).
