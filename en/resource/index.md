@@ -19,6 +19,10 @@ Inspired by Emily Webber's [team manual](https://emilywebber.co.uk/the-team-manu
 
 [Manual of me template](/en/resource/learn-by-making-manual-of-me.png)
 
+### Service blueprints
+
+[A basic service blueprint template](/en/resource/a-basic-service-blueprint-template.png)
+
 ## Guides
 
 [Markdown basics](/en/resource/markdown-basics.html)
