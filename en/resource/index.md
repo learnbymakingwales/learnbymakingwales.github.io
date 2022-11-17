@@ -21,4 +21,6 @@ Inspired by Emily Webber's [team manual](https://emilywebber.co.uk/the-team-manu
 
 ## Guides
 
+[Markdown basics](/en/resource/markdown-basics.html)
+
 ## Reading list and things to watch
