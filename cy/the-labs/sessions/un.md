@@ -2,7 +2,7 @@
 title: Sesiwn un
 lang: cy
 ref: session-one
-layout: post
+layout: page
 ---
 
 # Sesiwn un

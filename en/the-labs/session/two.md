@@ -2,7 +2,7 @@
 title: Session 2
 lang: en
 ref: session-two
-layout: post
+layout: page
 ---
 
 # Session two
