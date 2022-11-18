@@ -32,3 +32,9 @@ layout: page
 [Week 432 – Blog – BERG](http://berglondon.com/blog/2013/09/24/week-432/) \
 [How to be clear (and why it matters) — Ways of working](https://wow.how/to-/be-clear-and-why-it-matters) \
 [The agile comms handbook](https://agilecommshandbook.com/)
+
+### Examples of good weeknotes
+
+[The learn by making weeknotes](https://learnbymaking.wales/en/updates/) 😉 \
+[The land and property data proof of concept weeknotes](https://welsh-revenue-authority.github.io/weeknotes/property-data-poc/) from the WRA \
+[Digital land weeknotes](https://digital-land.github.io/weeknote/) \
