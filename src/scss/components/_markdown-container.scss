@@ -58,13 +58,17 @@
   }
 
   // list styles
-  ul {
+  ul, ol {
     @extend %lbm-list;
   }
   
   // bullet list specific styles
   ul {
     @extend %lbm-list--bullet;
+  }
+
+  ol {
+    @extend %lbm-list--number;
   }
 
   img {
