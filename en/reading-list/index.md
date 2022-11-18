@@ -12,6 +12,12 @@ layout: page
 [GDS Reading list: Product management learning list](https://docs.google.com/spreadsheets/d/15bimOfA5EYpvfC3UbU8MUV-qUjhSKdcrukHisQqNzhU/edit#gid=0) \
 [Jayson Robinson's fab list of product-y goodness](https://twitter.com/jaysonrobinson/status/1423568645188472834?s=20&t=UlEXFlHCcEhIQlF-ZB7LKg) 
 
+## Git, GitHub and Markdown
+
+[Cheatsheet for markdown](https://www.markdownguide.org/cheat-sheet/) \
+[Git for humans](https://speakerdeck.com/alicebartlett/git-for-humans), slides from Alice Bartlett \
+[What is Git?](/en/resource/what-is-git.md) \
+
 ## Research questions
 
 [Why You Are Asking the Wrong Customer Interview Questions - Product Talk](https://www.producttalk.org/2016/03/customer-interview-questions/) \
