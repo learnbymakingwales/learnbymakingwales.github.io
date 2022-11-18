@@ -23,6 +23,11 @@ t:
     sessions: Sessions
     labs: The labs
     resources: resources
+    powered_by: powered by
+    cdps:
+      name: Centre for Digital Public Services
+      url: https://digitalpublicservices.gov.wales/
+      acronym: CDPS
   cy:
     title: Dysgu trwy greu
     language: Cymraeg
@@ -31,3 +36,8 @@ t:
     sessions: Sesiynau
     labs: Y labordai
     resources: adnoddau
+    powered_by: wedi ei bweru gan
+    cdps:
+      name: Canolfan Gwasanaethau Cyhoeddus Digidol
+      url: https://gwasanaethaucyhoeddusdigidol.llyw.cymru/
+      acronym: CGCD

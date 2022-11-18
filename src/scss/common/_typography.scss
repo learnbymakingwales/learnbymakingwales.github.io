@@ -1,3 +1,19 @@
+%body-text {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin-top: 0;
+  margin-bottom: calc(var(--vertical-spacing) * (2/3));
+  font-weight: 400;
+  font-size: var(--small-screen-font-size);
+  line-height: 1.3125;
+
+  @include mq($from: tablet) {
+    font-size: var(--bigger-screen-font-size);
+    line-height: 1.45;
+    margin-bottom: var(--vertical-spacing);
+  }
+}
+
 .app-phonetic {
   --phonetic-colour: #{$lbm-red};
   color: var(--phonetic-colour);
