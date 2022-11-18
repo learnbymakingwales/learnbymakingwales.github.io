@@ -21,6 +21,12 @@ Inspired by Emily Webber's [team manual](https://emilywebber.co.uk/the-team-manu
 
 [Manual of me template](/en/resource/learn-by-making-manual-of-me.png)
 
+### Project site
+
+[Project site template repository](https://github.com/learnbymakingwales/project-site-template)
+
+You can use this to quickly spin up project sites that are hosted on [GitHub Pages](https://pages.github.com/).
+
 ### Service blueprints
 
 [A basic service blueprint template](/en/resource/a-basic-service-blueprint-template.png)
