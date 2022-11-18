@@ -26,6 +26,7 @@ Inspired by Emily Webber's [team manual](https://emilywebber.co.uk/the-team-manu
 [Project site template repository](https://github.com/learnbymakingwales/project-site-template)
 
 You can use this to quickly spin up project sites that are hosted on [GitHub Pages](https://pages.github.com/).
+There is some [documentation](https://github.com/learnbymakingwales/project-site-template/tree/main/_docs) to help you get started with common tasks.
 
 ### Service blueprints
 
