@@ -28,7 +28,5 @@ Inspired by Emily Webber's [team manual](https://emilywebber.co.uk/the-team-manu
 ## Guides
 
 [Markdown basics](/en/resource/markdown-basics.html) \
-[What is Git?](/en/resource/what-is-git.html)
+[What is Git?](/en/resource/what-is-git.html) \
 [Tips for writing weeknotes](/en/resource/tips-for-writing-weeknotes.html)
-
-## Reading list and things to watch
