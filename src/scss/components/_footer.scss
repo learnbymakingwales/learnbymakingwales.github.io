@@ -1,0 +1,21 @@
+.lbm-footer {
+  padding: 30px 15px;
+  border-top: 1px solid $cdps-dark-grey;
+
+  @include mq($from: tablet) {
+    padding: 30px;
+  }
+
+  p {
+    --small-screen-font-size: 16px;
+    --bigger-screen-font-size: 20px;
+    @extend %body-text;
+    margin-bottom: 0;
+  }
+
+  a {
+    --link-colour: var(--text-colour);
+    --link-hover-colour: var(--text-colour);
+    @extend %lbm-link;
+  }
+}
