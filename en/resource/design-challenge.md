@@ -18,7 +18,7 @@ Each year the festival attracts 25,000 people. It’s family friendly, and pride
 > **This is fictional** - we've made it up to help us think about designing products and services to meet the needs of users.  We picked Green Man festival because it's proudly-good-for-you-Welsh and everyone loves that! If you get the chance, [you should definitely go](https://www.greenman.net/tickets/).
 
 
-## Some tales from previous attendees
+## Stories from attendees
 
 **Bill and friends (festival goers)** came last year. They travelled down from north Wales by car on Saturday. Parking was a bit of a challenge but once they got into the festival it was amazing and worth the hassle. It was quite a trek to their camping area so next time they’ll bring a trolley or a wheelbarrow to lug all their kit. They'll bring less food this time because everything was available onsite and the stalls were open most of the day. Not much choice in the early morning though, so maybe they’ll bring breakfast or something to keep them going through the night.
 
