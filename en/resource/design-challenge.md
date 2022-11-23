@@ -40,14 +40,20 @@ Each year the festival attracts 25,000 people. It’s family friendly, and pride
 ## The workshops
 
 ### Understanding user needs
-In order to design better products and services you needed to understand the people, and work backwards.  
+In order to design better products and services you needed to understand the people, and work backwards. By listing and prioritising the needs to of users onto a 2x2 grid we are able to identify areas where the need was greatest (i.e. high-demand, high value)
 
-![user needs printed on indivual cards and placed on a two-by-two grid.  The x-axis shows 'demand' from low to high, and the y-axis shows 'value to user' from low to high.](assets/images/user-needs-prioritised.jpeg)
+![user needs printed on indivual cards and placed on a two-by-two grid.  The x-axis shows 'demand' from low to high, and the y-axis shows 'value to user' from low to high.](/assets/images/user-needs-prioritised.jpeg)
 
-### Understanding user need
-- User reasearch simulation
-- Creating a menu (min-viable product) based on needs
-- Mapping the (food truck) service
-- Running a (food truck) service simulation
+### User reasearch simulation
+We imagined we were able to interview people who have been to the festival before and ask them questions to help us design the best, most profitable menu for our food truck.  We created a simple •research participant screener•<link> and a •discussion guide•<link> to help us prepared for role-played user research interviews.  Teams learned that ethical packaging and sourcing and conveience we're important to their target users.
+
+![our research findings](/assets/images/research-findings.jpeg)
+
+### Creating a menu (min-viable product) based on needs
+The first version of our menu product, based on our research findings
+
+### Mapping the (food truck) service
+
+### Running a (food truck) service simulation
 
 
