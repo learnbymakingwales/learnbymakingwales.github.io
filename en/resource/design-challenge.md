@@ -46,9 +46,9 @@ In order to design better products and services you need to understand people an
 
 
 ### User reasearch simulation
-By researching the needs of users and understanding how they feel and act, teams can create products that meet their needs.  User research is an essential part of product and service development. 
+By researching the needs of users and understanding how they feel and act, teams can create products that meet their needs. User research is an essential part of product and service development. 
 
-In the workshop, teams used a research screener(link) and a discussion guide(link) to prepare for an interview with a user, before [role playing](https://docs.google.com/document/d/1cLeTz5Isw92DB7RiYZ-jpR2DMSJc4KMkSptn4KVHT8I/edit?usp=sharing) and analysing the findings. 
+In the workshop teams used a research screener(link) and a discussion guide(link) to prepare for an interview with a user, before [role playing](https://docs.google.com/document/d/1cLeTz5Isw92DB7RiYZ-jpR2DMSJc4KMkSptn4KVHT8I/edit?usp=sharing) and analysing the findings. 
 
 ![our research findings learned that ethical packaging and sourcing and conveience we're important to their target users.](/assets/images/research-findings.jpeg)
 
@@ -60,7 +60,7 @@ In the workshop, teams used a research screener(link) and a discussion guide(lin
 
 ### Mapping the (food truck) service
 
-The menu is a product, that exists in a wider-service.  A [service blueprint](https://learnbymaking.wales/en/resource/a-basic-service-blueprint-template.png) allows teams to understand the interactions between the front-stage (i.e. what users see) and the back-stage of a service (i.e. what staff and organisations do behind the scene and all the things that support that).  By doing this teams are able to uncover ways to improve a service.
+The menu is a product that exists in a wider-service.  A [service blueprint](https://learnbymaking.wales/en/resource/a-basic-service-blueprint-template.png) allows teams to understand the interactions between the front-stage (i.e. what users see) and the back-stage of a service (i.e. what staff and organisations do behind the scene and all the things that support that).  By doing this teams are able to uncover ways to improve a service.
 
 ![Mapping buying a burioto from a food truck](/assets/images/mapping-a-service.png)
 
