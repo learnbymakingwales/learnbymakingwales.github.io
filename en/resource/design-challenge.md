@@ -40,13 +40,13 @@ Each year the festival attracts 25,000 people. It’s family friendly, and pride
 ## The workshops
 
 ### Understanding user needs
-In order to design better products and services teams should understand people uaing them, then work backwards from that. By listing and prioritising the user needs, teams are able to identify areas to focus (i.e. high-demand, high value)
+In order to design better products and services teams should understand people using them, and work backwards from that. By listing and prioritising the user needs, teams are able to identify areas to focus (i.e. high-demand, high value)
 
 ![user needs printed on indivual cards and placed on a two-by-two grid.  The x-axis shows 'demand' from low to high, and the y-axis shows 'value to user' from low to high.](/assets/images/user-needs-prioritised.jpeg)
 
 
 ### User reasearch simulation
-By researching the needs of users and understanding what theu do, how they feel and act, teams can create products that better meet their needs. User research is an essential part of product and service development. 
+By researching the needs of users and understanding what they do, how they feel and act, teams can create better products that meet their needs. User research is an essential part of product and service development. 
 
 In the workshop teams used a research screener(link) and a discussion guide(link) to prepare for an interview with a user, before [role playing](https://docs.google.com/document/d/1cLeTz5Isw92DB7RiYZ-jpR2DMSJc4KMkSptn4KVHT8I/edit?usp=sharing) and analysing the findings. 
 
