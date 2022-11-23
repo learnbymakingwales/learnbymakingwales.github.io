@@ -18,7 +18,7 @@ Each year the festival attracts 25,000 people. It’s family friendly, and pride
 > **This is fictional** - we've made it up to help us think about designing products and services to meet the needs of users.  We picked Green Man festival because it's proudly-good-for-you-Welsh and everyone loves that! If you get the chance, [you should definitely go](https://www.greenman.net/tickets/).
 
 
-## Some tales from people
+## Some tales from previous attendees
 
 **Bill and friends (festival goers)** came last year. They travelled down from north Wales by car on Saturday. Parking was a bit of a challenge but once they got into the festival it was amazing and worth the hassle. It was quite a trek to their camping area so next time they’ll bring a trolley or a wheelbarrow to lug all their kit. They'll bring less food this time because everything was available onsite and the stalls were open most of the day. Not much choice in the early morning though, so maybe they’ll bring breakfast or something to keep them going through the night.
 
@@ -47,7 +47,7 @@ In order to design better products and services you need to understand people an
 ### User reasearch simulation
 By researching the needs of users and understanding how they feel and act, teams can create products that meet their needs.  User research is an essential part part of modern product and service development. 
 
-In the workshop, teams used a research screener(link) and a discussion guide(link) to prepare for an interview with a user, before role playing (link) and analysing the findings. 
+In the workshop, teams used a research screener(link) and a discussion guide(link) to prepare for an interview with a user, before [role playing](https://docs.google.com/document/d/1cLeTz5Isw92DB7RiYZ-jpR2DMSJc4KMkSptn4KVHT8I/edit?usp=sharing) and analysing the findings. 
 
 ![our research findings learned that ethical packaging and sourcing and conveience we're important to their target users.](/assets/images/research-findings.jpeg)
 
