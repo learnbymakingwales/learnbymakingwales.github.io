@@ -31,15 +31,20 @@ Each year the festival attracts 25,000 people. It’s family friendly, and pride
 **Dot is one of the event volunteers (event organiser)**. This will be her first year volunteering but she’s got friends that have it done it before. The deal is that you agree to muck in: direct traffic, marshall the crowds, make sure people are behaving and in return you get to see the bands and get free food. It’s hard work but it’s a good laugh and you get free food vouchers.
 
 
-## Useful information
+## Useful context
 - [YouGov, age, gender, politics](https://yougov.co.uk/topics/entertainment/explore/music_festival/Green_Man_Festival?content=all)
-- https://www.greenman.net/information/faqs/ 
+- [Background info and FAQs](https://www.greenman.net/information/faqs/ ) 
 - [Fesitval Map ](https://twitter.com/greenmanfest/status/896021567196598272) (an old one from 2017)
 
 
 ## The workshops
 
-- Understanding user needs
+### Understanding user needs
+In order to design better products and services you needed to understand the people, and work backwards.  
+
+![user needs printed on indivual cards and placed on a two-by-two grid.  The x-axis shows 'demand' from low to high, and the y-axis shows 'value to user' from low to high.](assets/images/user-needs-prioritised.jpeg)
+
+### Understanding user need
 - User reasearch simulation
 - Creating a menu (min-viable product) based on needs
 - Mapping the (food truck) service
