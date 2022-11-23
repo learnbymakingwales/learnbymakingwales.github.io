@@ -44,6 +44,7 @@ In order to design better products and services you need to understand people an
 
 ![user needs printed on indivual cards and placed on a two-by-two grid.  The x-axis shows 'demand' from low to high, and the y-axis shows 'value to user' from low to high.](/assets/images/user-needs-prioritised.jpeg)
 
+
 ### User reasearch simulation
 By researching the needs of users and understanding how they feel and act, teams can create products that meet their needs.  User research is an essential part of product and service development. 
 
@@ -51,9 +52,11 @@ In the workshop, teams used a research screener(link) and a discussion guide(lin
 
 ![our research findings learned that ethical packaging and sourcing and conveience we're important to their target users.](/assets/images/research-findings.jpeg)
 
-### Creating a menu (min-viable product) based on needs
+
+### Creating a menu (min-viable product)
 
 ![The first versions of the menu products - all based on our research findings](/assets/images/menu-products.jpg)
+
 
 ### Mapping the (food truck) service
 
@@ -63,5 +66,7 @@ The menu is a product, that exists in a wider-service.  A [service blueprint](ht
 
 
 ### Running a (food truck) service simulation
+Building a simple model of a service allows teams to explore the ebbs, flows and interactions of a service.  Simulating scenarios (e.g. bigger queues, bad weather, new competitors) and encouraging teams to do a desktop walkthrough create better conversations and understand of how things play out.
 
 
+![a desktop model of a food truck service in a music festival, using lego, card and othe props to mock it up](/assets/images/desktop-walkthrough.jpeg)
