@@ -15,7 +15,7 @@ About the festival
 
 Each year the festival attracts 25,000 people. It’s family friendly, and prides itself on being one of the world's most ethical music festivals. You can get a sense of what it feels like in this short film on YouTube (bit.ly/green-man-film)
 
-> **This is fictional** - we've made it up to help us think about designing products and services to meet the needs of users.  We picked Green Man festival because it's proudly-good-for-you-Welsh and everyone loves that! If you get the chance, [you should definitely go](https://www.greenman.net/tickets/).
+> **This is fictional** - we've made it up to help teams think about designing products and services to meet the needs of users.  We picked Green Man festival because it's proudly-good-for-you-Welsh and everyone loves that! If you get the chance [you should definitely go](https://www.greenman.net/tickets/).
 
 
 ## Stories from attendees
