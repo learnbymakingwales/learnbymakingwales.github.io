@@ -66,7 +66,7 @@ The menu is a product, that exists in a wider-service.  A [service blueprint](ht
 
 
 ### Running a (food truck) service simulation
-Building a simple model of a service allows teams to explore the ebbs, flows and interactions of a service.  Simulating scenarios (e.g. bigger queues, bad weather, new competitors) and encouraging teams to do a desktop walkthrough create better conversations and understand of how things play out.
+Building a simple model of a service allows teams to explore the ebbs, flows and interactions of a service.  Simulating scenarios (e.g. bigger queues, new competitors) helps teams understand of how things might play out and how to improve a service.
 
 
 ![a desktop model of a food truck service in a music festival, using lego, card and othe props to mock it up](/assets/images/desktop-walkthrough.jpeg)
