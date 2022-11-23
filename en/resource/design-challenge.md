@@ -12,7 +12,6 @@ layout: page
 ## The challenge
 
 You have won a bid to provide food at this year’s Green Man music festival in the Brecon Beacons. You need to design a menu for the event that you believe will generate the most profit.
-About the festival
 
 Each year the festival attracts 25,000 people. It’s family friendly, and prides itself on being one of the world's most ethical music festivals. You can get a sense of what it feels like in this [short film on YouTube](https://youtu.be/5NdDkwP4Zm8)
 
