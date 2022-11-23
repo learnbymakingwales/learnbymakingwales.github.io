@@ -40,19 +40,27 @@ Each year the festival attracts 25,000 people. It’s family friendly, and pride
 ## The workshops
 
 ### Understanding user needs
-In order to design better products and services you needed to understand the people, and work backwards. By listing and prioritising the needs to of users onto a 2x2 grid we are able to identify areas where the need was greatest (i.e. high-demand, high value)
+In order to design better products and services you need to understand people and their need - then work backwards from that. By listing and prioritising the user needs, teams are able to identify areas to focus (i.e. high-demand, high value)
 
 ![user needs printed on indivual cards and placed on a two-by-two grid.  The x-axis shows 'demand' from low to high, and the y-axis shows 'value to user' from low to high.](/assets/images/user-needs-prioritised.jpeg)
 
 ### User reasearch simulation
-We imagined we were able to interview people who have been to the festival before and ask them questions to help us design the best, most profitable menu for our food truck.  We created a simple •research participant screener•<link> and a •discussion guide•<link> to help us prepared for role-played user research interviews.  Teams learned that ethical packaging and sourcing and conveience we're important to their target users.
+By researching the needs of users and understanding how they feel and act, teams can create products that meet their needs.  User research is an essential part part of modern product and service development. 
 
-![our research findings](/assets/images/research-findings.jpeg)
+In the workshop, teams used a research screener(link) and a discussion guide(link) to prepare for an interview with a user, before role playing (link) and analysing the findings. 
+
+![our research findings learned that ethical packaging and sourcing and conveience we're important to their target users.](/assets/images/research-findings.jpeg)
 
 ### Creating a menu (min-viable product) based on needs
-The first version of our menu product, based on our research findings
+
+![The first versions of the menu products - all based on our research findings](/assets/images/menu-products.jpg)
 
 ### Mapping the (food truck) service
+
+The menu is a product, that exists in a wider-service.  A service map allows teams to understand the interactions between the front-stage (i.e. what users see) and back-stage (i.e. what staff and organisations do behind the scene and all the things that support that).  By doing this teams are able to uncover ways to improve a service.
+
+![Mapping buying a burioto from a food truck](/assets/images/mapping-a-service.png)
+
 
 ### Running a (food truck) service simulation
 
