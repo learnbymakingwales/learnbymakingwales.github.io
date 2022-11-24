@@ -47,7 +47,7 @@ In order to design better products and services teams should understand people u
 ### User reasearch simulation
 By researching the needs of users and understanding what they do, how they feel and act, teams can create better products that meet their needs. User research is an essential part of product and service development. 
 
-In the workshop teams used a research screener(link) and a discussion guide(link) to prepare for an interview with a user, before [role playing](https://docs.google.com/document/d/1cLeTz5Isw92DB7RiYZ-jpR2DMSJc4KMkSptn4KVHT8I/edit?usp=sharing) and analysing the findings. 
+In the workshop teams used a [recruitment screener](https://digitalpublicservices.sharepoint.com/:w:/g/ucd/EQ-F7h5mSFhAvg3s_wOeBx8BbPVCrsLUytnUXrfPzjoptA?e=maizjN) and a [discussion guide](https://digitalpublicservices-my.sharepoint.com/:w:/g/personal/gabi_mitchem-evans_digitalpublicservices_gov_wales/EW8eV7OIQQpJhl65MJbrsckBy4UK0B9hAx4VRINeHYghnw?e=C5y4eT) to prepare for an interview with a user, before [role playing](https://docs.google.com/document/d/1cLeTz5Isw92DB7RiYZ-jpR2DMSJc4KMkSptn4KVHT8I/edit?usp=sharing) and analysing the findings. 
 
 ![our research findings learned that ethical packaging and sourcing and conveience we're important to their target users.](/assets/images/research-findings.jpeg)
 
