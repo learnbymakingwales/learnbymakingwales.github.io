@@ -41,5 +41,5 @@ As well as looking at feedback from your users, and doing usability testing, you
 
 * Content Design by Sarah Winters (ISBN 9781916323315)
 * Content Transformation by Hinrich von Haaren (ISBN coming soon)
-* Lead with Content: How to put content at the centre of digital transformation by Padma Gillen ((ISBN: 9781916108318)
+* Lead with Content: How to put content at the centre of digital transformation by Padma Gillen (ISBN: 9781916108318)
 
