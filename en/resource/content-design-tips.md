@@ -37,4 +37,9 @@ As well as looking at feedback from your users, and doing usability testing, you
 [How we redesigned our website - from Content Design London](https://contentdesign.london/blog/how-we-redesigned-our-website)
 
 
+## Reading list
+
+* Content Design by Sarah Winters (ISBN 9781916323315)
+* Content Transformation by Hinrich von Haaren (ISBN coming soon)
+* Lead with Content: How to put content at the centre of digital transformation by Padma Gillen ((ISBN: 9781916108318)
 
