@@ -17,7 +17,7 @@ What are people calling about and how many people are calling? Do the call centr
 
 ## Using the language your users use
 
-Away from your website, are there other places your users gather and chat? They can be a great place to see what kind of language your users are using. It might be that they call specific things something different from the ‘official term’. If you’re always using the official term, when they search for something on your site using the language they use every day, this means they won’t find the information they need. Where possible, always mirror your users’ language.
+Away from your website, are there other places your users gather and chat? Online forums and social media can be great places to see what kind of language your users are using. It might be that they call specific things something different from the ‘official term’. If you’re always using the official term, when they search for something on your site using the language they use every day, this means they won’t find the information they need. Where possible, always mirror your users’ language.
 
 ## Evaluation techniques
 
