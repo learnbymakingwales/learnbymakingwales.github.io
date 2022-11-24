@@ -26,15 +26,15 @@ As well as looking at feedback from your users, and doing usability testing, you
 ## Useful links
 
 
-https://contentdesign.london/blog/Improve-your-content-with-data
+[Improve your content with data - from Content Design London](https://contentdesign.london/blog/Improve-your-content-with-data)
 
-https://digitalblog.ons.gov.uk/2018/04/30/using-data-for-content-design/
+[Using data for content design - a blog post from the Office for National Statistics](https://digitalblog.ons.gov.uk/2018/04/30/using-data-for-content-design/)
 
-https://userresearch.blog.gov.uk/2014/09/02/a-simple-technique-for-evaluating-content/
+[A simple technique for evaluating content - a blog post from GOV.UK](https://userresearch.blog.gov.uk/2014/09/02/a-simple-technique-for-evaluating-content/)
 
-https://lexieclaridge.medium.com/designing-remote-highlighter-testing-da10208f530f
+[Designing remote content testing - from content designer Lexie Claridge](https://lexieclaridge.medium.com/designing-remote-highlighter-testing-da10208f530f)
 
-https://contentdesign.london/blog/how-we-redesigned-our-website
+[How we redesigned our website - from Content Design London](https://contentdesign.london/blog/how-we-redesigned-our-website)
 
 
 
