@@ -1,3 +1,10 @@
+---
+title: Data-driven content design tips
+lang: en
+ref: content-design-tips
+layout: page
+---
+
 # Data-driven content design tips
 
 ## On-page searches 
