@@ -36,7 +36,8 @@ There is some [documentation](https://github.com/learnbymakingwales/project-site
 
 [Markdown basics](/en/resource/markdown-basics.html) \
 [What is Git?](/en/resource/what-is-git.html) \
-[Tips for writing weeknotes](/en/resource/tips-for-writing-weeknotes.html)
+[Tips for writing weeknotes](/en/resource/tips-for-writing-weeknotes.html) \
+[Data-driven content design tips](/en/resource/content-design-tips.html)
 
 ## Workshops
 
