@@ -17,7 +17,7 @@ There is a strong emphasis on having fun!
 
 The specifics of what will be made during session two will vary. We also don't want to give too much away before the day as there is an element of 'thinking on your feet'!
 
-However, there will be an opporunity for the team to update the website from [session one](/session-one) with what they learnt on the day.
+However, there will be an opporunity for the team to update the website from [session one](/en/the-labs/session/two.html) with what they learnt on the day.
 
 ## Learning outcomes
 
