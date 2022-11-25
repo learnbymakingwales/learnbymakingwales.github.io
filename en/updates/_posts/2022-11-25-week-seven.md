@@ -37,7 +37,7 @@ We were also fortunate that this coincided with the Cymru vs USA world cup match
 
 ## Session two
 
-Day 2 introduced a [design challenge](https://learnbymaking.wales/en/the-labs/session/two.html). The aim was to expose participants to a core set of user-centred design techniques so they start to feel them in their bones.  The [challenge that we designed](https://learnbymaking.wales/en/resource/design-challenge.html) focused around a food truck vendor at the Green Man festival.
+[Day 2](https://learnbymaking.wales/en/the-labs/session/two.html) introduced a [design challenge](https://learnbymaking.wales/en/resource/design-challenge.html). The aim was to expose participants to a core set of user-centred design techniques so they start to feel them in their bones. The theme was running a profitable food truck at music festival.
 
 ### User needs
 
