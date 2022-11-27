@@ -1,5 +1,5 @@
 ---
-title: Tips for writing weeknotes?
+title: Tips for writing weeknotes
 lang: en
 ref: tips-for-writing-weeknotes
 layout: page
