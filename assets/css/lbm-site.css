@@ -278,6 +278,10 @@
     margin-bottom: var(--vertical-spacing);
   }
 }
+.lbm-markdown-output .app-list--plain {
+  padding-left: 0;
+  list-style-type: none;
+}
 .lbm-markdown-output img {
   max-width: 100%;
 }
