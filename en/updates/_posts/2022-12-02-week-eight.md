@@ -11,7 +11,7 @@ We’ve had another couple of fabulous Labs sessions. This week we switched focu
 
 ## Our first expert talk
 
-We kicked-off with a brilliant presentation from Richard Pope, who came to talk to us about product thinking and getting started. His stories and tips from his time shaping and leading the GOV.UK product were insightful and practical.
+We kicked-off with a brilliant presentation from [Richard Pope](https://richardpope.org/), who came to talk to us about product thinking and getting started. His stories and tips from his time shaping and leading the GOV.UK product were insightful and practical.
 
 Richard banged the drum for making things as a way to think and learn. He encouraged us to give ourselves permission to think about the whole user journey and all its component parts. He also shared some tips about [GOV.UK formats](https://flic.kr/p/An8WNz) and how they were useful as a framework for that team’s early thinking.
 
