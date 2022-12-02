@@ -35,7 +35,7 @@ Fe wnaethon ni ddewis 3 ardal sy’n achosi rhywfaint o ddryswch i ddefnyddwyr g
 
 ## Adeiladu hygyrchedd o'r cychwyn cyntaf
 
-Ein hail westai oedd [Alistair Duggin]([https://twitter.com/dugboticus](https://alistairduggin.com), ag arweiniodd hygyrchedd ar gyfer Gwasanaeth Digidol Llywodraeth y DU, yn ogystal â’i waith gydag Apple a’r BBC yn y gorffennol. Roeddem wedi gofyn iddo ein helpu i adeiladu empathi gyda defnyddwyr sydd â nam ar eu golwg, clyw, symudedd neu’n wybyddol.
+Ein hail westai oedd [Alistair Duggin](https://alistairduggin.com), ag arweiniodd hygyrchedd ar gyfer Gwasanaeth Digidol Llywodraeth y DU, yn ogystal â’i waith gydag Apple a’r BBC yn y gorffennol. Roeddem wedi gofyn iddo ein helpu i adeiladu empathi gyda defnyddwyr sydd â nam ar eu golwg, clyw, symudedd neu’n wybyddol.
 
 ![Llun o Alistair Duggin yn sticio beth ddylwn wneud a beth ddylwn beidio â gwneud ynglŷn â hygyrchedd ar y wal. Mae e'n gwenu.](/assets/images/alistair-duggin-smiling.jpeg){:loading="lazy"}
 
@@ -47,14 +47,18 @@ Wel, roedd treulio bore llawn yn meddwl ac efelychu anghenion hygyrchedd gwahano
 
 Gwnaethom ymarfer o gwmpas [personas pobl sydd â namau neu anableddau](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles) a thrafod y pethau [dylwn / ni ddylwn gwneud pan yn dylunio ar gyfer hygyrchedd](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/). Daeth pob un ohonom i'r casgliad bod dim rheswm i beidio â gwneud hyn o'r cychwyn cyntaf. Mae hygyrchedd da yn golygu dyluniad da. Mae oedi ei ystyried, neu ei ychwanegu yn ddiweddarach yn beth ffôl i wneud: bydd yn costio llawer yn fwy, ac eithrio pobl yn ddiangen. 
 
-!Llun grid pedwar wrth bedwar ar y wal, wedi'i wneud o dâp masgio. I lawr ochr chwith y grid mae rolau swyddi megis Dylunydd Gwasanaeth, Dylunydd Cynnwys, Dylunydd Gweledol a Rhyngweithio, a Chodydd Blaen wedi’u hysgrifennu arnynt.  Ar draws brig y grid mae post-its wedi’u labelu â Rhagosodiadau Hygyrch, Caniatáu Addasiadau, Darparu Dewisiadau Amgen, a Gwaith gyda Thechnoleg Gynorthwyol. Poblogir cynnwys y grid gyda phosteri o’r hyn ddylwn, a ni ddylwn wneud wedi’u torri i fyny i'r argymhellion unigol ac wedi eu hychwanegu i'r grid perthnasol. Mae yna argymhellion hefyd o fewn Darparu Dewisiadau Amgen ar gyfer Dylunio Gwasanaethau a Dylunio Cynnwys. Ac argymhellion y Cod Blaen ar gyfer Caniatáu addasiadau a Gweithio gyda Thechnoleg Gynorthwyol.](/assets/images/accessibility-grid.jpeg){:loading="lazy"}
+![Llun grid pedwar wrth bedwar ar y wal, wedi'i wneud o dâp masgio. I lawr ochr chwith y grid mae rolau swyddi megis Dylunydd Gwasanaeth, Dylunydd Cynnwys, Dylunydd Gweledol a Rhyngweithio, a Chodydd Blaen wedi’u hysgrifennu arnynt.  Ar draws brig y grid mae post-its wedi’u labelu â Rhagosodiadau Hygyrch, Caniatáu Addasiadau, Darparu Dewisiadau Amgen, a Gwaith gyda Thechnoleg Gynorthwyol. Poblogir cynnwys y grid gyda phosteri o’r hyn ddylwn, a ni ddylwn wneud wedi’u torri i fyny i'r argymhellion unigol ac wedi eu hychwanegu i'r grid perthnasol. Mae yna argymhellion hefyd o fewn Darparu Dewisiadau Amgen ar gyfer Dylunio Gwasanaethau a Dylunio Cynnwys. Ac argymhellion y Cod Blaen ar gyfer Caniatáu addasiadau a Gweithio gyda Thechnoleg Gynorthwyol.](/assets/images/accessibility-grid.jpeg){:loading="lazy"}
 
 ## Braslunio ein syniadau cyntaf
 Ac yn olaf, treulion ni'r prynhawn yn braslunio a rhannu syniadau. Gwnaeth y grŵp mwynhau, ac roedd hi’n ffordd wych o ddatgelu cymhelliant pawb tuag at greu pethau a datrys problemau.
 
-![Braslun 1 of 4](/assets/images/sketch1.jpeg){:loading="lazy"} ![Braslun 2 o4](/assets/images/sketch2.jpeg){:loading="lazy"} ![Braslun 3 o 4](/assets/images/sketch3.jpeg){:loading="lazy"} ![Braslun 4 o 4](/assets/images/sketch4.jpeg){:loading="lazy"}
-
-CAPTION: Brasluniau wedi’u gwneud â llaw ar bapur A3, wedi'u tynnu'n gyflym iawn i'n helpu i ddal syniadau posib i'w prototeipio. Gwnaeth pawb yr ymarfer hwn ac yna trafodwyd beth oedden ni'n feddwl.
+<figure class="app-multi-image">
+  <img src="/assets/images/sketch1.jpeg" alt="Braslun 1 o 4" loading="lazy">
+  <img src="/assets/images/sketch-lucinda.jpg" alt="Braslun 2 o 4" loading="lazy">
+  <img src="/assets/images/sketch3.jpeg" alt="Braslun 3 o 4" loading="lazy">
+  <img src="/assets/images/sketch4.jpeg" alt="Braslun 4 o 4" loading="lazy">
+  <figcaption class="app-multi-image__caption">Brasluniau wedi’u gwneud â llaw ar bapur A3, wedi'u tynnu'n gyflym iawn i'n helpu i ddal syniadau posib i'w prototeipio. Gwnaeth pawb yr ymarfer hwn ac yna trafodwyd beth oedden ni'n feddwl.</figcaption>
+</figure>
 
 Ymunodd Richard ac Alistair â ni yn y prynhawn i gynnig adborth ar y syniadau cychwynnol. Roedd yn ddefnyddiol iawn i gael y wybodaeth yma  gan arbenigwyr yn eu maes.
 
