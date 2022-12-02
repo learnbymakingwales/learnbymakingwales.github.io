@@ -3,9 +3,7 @@ title: Wythnos wyth
 lang: cy
 ref: week-eight
 layout: post
-
 ---
-
 ### 2 Rhagfyr 2022
 
 Mae’r sesiynau Labs wedi bod yn wych yr wythnos yma! Gwnaethom ganolbwyntio ar archwilio a chreu pethau sy’n ymwneud â Cyfoeth Naturiol Cymru (CNC), ac fe wnaethom wahodd cwpl o westeion arbennig hefyd.
