@@ -35,19 +35,19 @@ We picked 3 areas because each of these cause some confusion for people using NR
 
 
 ## Building in accessibility from the start
-Our second guest was [Alistair Duggin](https://twitter.com/dugboticus), who led on accessibility for the UK’s Government Digital Service and has previously done work with Apple and BBC. We’d asked him to help us build empathy with users with vision, hearing, mobility and cognitive impairment. 
+Our second guest was [Alistair Duggin](https://alistairduggin.com), who led on accessibility for the UK’s Government Digital Service and has previously done work with Apple and BBC. We’d asked him to help us build empathy with users with vision, hearing, mobility and cognitive impairment. 
 
-![Photo of Alistair Duggin sticking do’s and don’ts for accessibility on a wall.  He’s smiling.](/assets/images/alistair-duggin-smiling.jpeg){:loading="lazy"}
+![Alistair Duggin sticking do’s and don’ts for accessibility on a wall.  He’s smiling.](/assets/images/alistair-duggin-smiling.jpeg){:loading="lazy"}
 
-Oh my, a morning spent thinking and simulating different accessibility needs was quite profound.  It was something that we won’t forget.
+Oh my, a morning spent thinking and simulating different accessibility needs and demonstrating different assistive technologies was quite profound.  It was something that we won’t forget.
 
 ![Alistair is handing out Sim-Specs to people in the Lab to help them understand different vision-impairment conditions.](/assets/images/handing-out-specs.jpeg){:loading="lazy"}
 
-![Laura with a set of Sim-Specs, trying to read a book.](/assets/images/laura-sim-specs.jpeg){:loading="lazy"}
+![Laura Laura wearing glasses simulating tunnel vision, trying to read a pamphlet.](/assets/images/laura-sim-specs.jpeg){:loading="lazy"}
 
 We did an exercise around [personas of people that have impairments or disabilities](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles) and discussed some [do’s and don'ts of designing for accessibility](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/).  All of us concluded there is zero reason not to do this from the outset. Good accessibility is good design. Delaying considering it or adding it in later is a fool’s game: it will cost way more and needlessly exclude people. 
 
-![A photo of a four-by-four grid made of masking tape, stuck on a wall.  Down the left-side of the grid are post-its with the job roles of Service Designer, Content Designer, Visual and Interaction Design, and Frontend Coder written on them.  Across the top of the grid are post-its with Accessible Defaults, Allow Modifications, Provide Alternatives, and Works with Assisted Technology written on them.  The content of the grid is populated with Do’s and Don’ts stuck on bits of paper.  The majority of the Do’s were defaults and should be considered from the start](/assets/images/accessibility-grid.jpeg){:loading="lazy"}
+![A four-by-four grid made of masking tape, stuck on a wall.  Down the left-side are post-its with Service Design, Content Design, Visual and Interaction Design, and Frontend Code.  Across the top are post-its with Accessible Defaults, Allow Modifications, Provide Alternatives, and Works with Assisted Technology.  The grid is populated with the Do’s and Don’ts posters that have been cut up into the individual recommendations and added to the relevant grid.  The majority are in Accessible defaults and fall under Content Design and Visual and Interaction Design. There are also recommendations in Provide Alternatives for Service Design and Content Design. And Front Code recommendations for Allow modifications and Works with Assistive Technology](/assets/images/accessibility-grid.jpeg){:loading="lazy"}
 
 
 ## Sketching our first ideas
