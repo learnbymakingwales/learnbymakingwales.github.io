@@ -35,7 +35,7 @@ We picked 3 areas because each of these cause some confusion for people using NR
 
 
 ## Building in accessibility from the start
-Our second guest was [Alistair Duggin](https://alistairduggin.com), who led on accessibility for the UK’s Government Digital Service and has previously done work with Apple and BBC. We’d asked him to help us build empathy with users with vision, hearing, mobility and cognitive impairment. 
+Our second guest was [Alistair Duggin](https://alistairduggin.com), who led on accessibility for the UK’s Government Digital Service and has previously done work with Apple and BBC. We’d asked him to help us build empathy with [users with vision, hearing, mobility and cognitive impairment](https://accessibility.blog.gov.uk/2016/05/16/consider-the-range-of-people-that-will-use-your-product-or-service/). 
 
 ![Alistair Duggin sticking do’s and don’ts for accessibility on a wall.  He’s smiling.](/assets/images/alistair-duggin-smiling.jpeg){:loading="lazy"}
 
