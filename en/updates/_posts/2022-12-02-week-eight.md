@@ -4,7 +4,6 @@ lang: en
 ref: week-eight
 layout: post
 ---
-
 ### 2 December 2022
 
 We’ve had another couple of fabulous Labs sessions. This week we switched focus to exploring and making things relating to Natural Resources Wales (NRW) and we also invited a couple of special guests.
@@ -66,10 +65,3 @@ Next week we’ll narrow these down to a few things and we aim to build somethin
 All our code is available on [GitHub](https://github.com/orgs/learnbymakingwales/repositories).
 
 If you’d like to get in touch or you’d like to get updates by email, drop us a message at [hello@learnbymaking.wales](mailTo:hello@learnbymaking.wales)
-
-
-
-
-
-
-
