@@ -1,4 +1,7 @@
 :root {
   --page-padding-small: 20px;
   --page-padding-large: 45px;
+
+  --x-small-font-size: 16px; // this should be in lbm-frontend
+  --secondary-text-colour: #{darken($lbm-grey-dark, 10)};
 }

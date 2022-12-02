@@ -1,0 +1,41 @@
+.app-multi-image {
+  --gap-size: #{math.div($lbm-gutter-half, 4)};
+  --extra-size: 0;
+  display: flex;
+  width: calc(100% + var(--extra-size));
+  margin-right: 0;
+  margin-bottom: var(--vertical-spacing);
+  margin-left: calc((var(--extra-size ) / 2) * -1);
+  flex-wrap: wrap;
+  row-gap: calc(var(--gap-size) * 2);
+
+  img {
+    box-sizing: border-box;
+    width: 50%;
+    aspect-ratio: 4/3;
+
+    &:nth-child(odd) {
+      padding-right: var(--gap-size);
+    }
+
+    &:nth-child(even) {
+      padding-left: var(--gap-size);
+    }
+  }
+
+  @include mq($from: tablet) {
+    --gap-size: #{math.div($lbm-gutter-half, 2)};
+    --extra-size: 20%;
+  }
+
+  .app-multi-image__caption {
+    padding: 0 $lbm-gutter-half;
+    font-size: var(--x-small-font-size);
+    color: var(--secondary-text-colour);
+
+    @include mq($from: tablet) {
+      padding: 0 $lbm-gutter;
+      font-size: var(--small-screen-font-size);
+    }
+  }
+}
