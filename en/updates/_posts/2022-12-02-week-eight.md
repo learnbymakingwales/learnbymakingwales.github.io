@@ -53,7 +53,7 @@ We did an exercise around [personas of people that have impairments or disabilit
 ## Sketching our first ideas
 And finally, we spent the afternoon sketching and sharing ideas.  It was good fun and a great way to expose everyone’s inner-itch to make things and solve problems.
 
-![Sketch 1 of 4]((/assets/images/sketch1.jpeg){:loading="lazy"} ![Sketch 2 of 4]((/assets/images/sketch2.jpeg){:loading="lazy"} ![Sketch 3 of 4]((/assets/images/sketch3.jpeg){:loading="lazy"} ![Sketch 4 of 4]((/assets/images/sketch4.jpeg){:loading="lazy"}
+![Sketch 1 of 4](/assets/images/sketch1.jpeg){:loading="lazy"} ![Sketch 2 of 4](/assets/images/sketch2.jpeg){:loading="lazy"} ![Sketch 3 of 4](/assets/images/sketch3.jpeg){:loading="lazy"} ![Sketch 4 of 4](/assets/images/sketch4.jpeg){:loading="lazy"}
 
 CAPTION: Hand drawn sketches on A3 paper, drawn very quickly to help us capture ideas that we might prototype. Each of us did this exercise and then discussed what we were thinking.
 
