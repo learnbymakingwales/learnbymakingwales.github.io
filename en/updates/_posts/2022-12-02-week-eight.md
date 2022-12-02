@@ -4,6 +4,8 @@ lang: en
 ref: week-eight
 layout: post
 ---
+
+# Week eight
 ### 2 December 2022
 
 We’ve had another couple of fabulous Labs sessions. This week we switched focus to exploring and making things relating to Natural Resources Wales (NRW) and we also invited a couple of special guests.
