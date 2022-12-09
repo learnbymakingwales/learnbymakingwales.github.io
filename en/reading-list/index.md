@@ -15,8 +15,8 @@ layout: page
 
 ## Accessibility
 
-[Consider the range of people that will use your product or service](https://accessibility.blog.gov.uk/2016/05/16/consider-the-range-of-people-that-will-use-your-product-or-service/)
-[What we mean when we talk about accessibility](https://accessibility.blog.gov.uk/2016/05/16/consider-the-range-of-people-that-will-use-your-product-or-service/)
+* [Consider the range of people that will use your product or service](https://accessibility.blog.gov.uk/2016/05/16/consider-the-range-of-people-that-will-use-your-product-or-service/)
+* [What we mean when we talk about accessibility](https://accessibility.blog.gov.uk/2016/05/16/consider-the-range-of-people-that-will-use-your-product-or-service/)
 {: .app-list--plain}
 
 ## Git, GitHub and Markdown
