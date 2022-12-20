@@ -9,7 +9,7 @@ layout: page
 
  Session one of Dysgu trwy greu has two main objectives.
 
-1. To get to know the team and establish a safe place to experiement and learn
+1. To get to know the team and establish a safe place to experiment and learn
 2. Get everyone on the team set up with the tools and resources they'll need
 
 ## The make
@@ -18,7 +18,7 @@ Each session will involve a "make", or a series of "makes". The make will vary w
 
 During the first session we'll make:
 
-* a set of team princinples
+* a set of team principles
 * everyone's 'manual of me'
 * a team website
 
