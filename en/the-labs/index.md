@@ -15,6 +15,8 @@ The activities will be practical, immersive sessions that will help people takin
 
 We have 4 themes which we see as the most important parts of learning by making.
 
+![A poster showing the 4 themes and what participants can expect to learn in each part. The first week is "Introducing agile service design" and participants can expect to learn about building a safe space to learn, making in the open, researching users and their needs and designing products and services. Week 2 is Researching a problem space where participants can expect to learn about prioritising problems to solve, using dats to design services, inclusive design from the start and quick idea generation. Week 3 is Learning by making. Participants can expect to learn about prototyping, co-designing a service, working in sprints and showing as you go. Week 4 is building momentum and participants can expect to learn about testing prototypes with real users, analysing what you are hearing, making the case for change and use working in the open to build momentum.](/assets/images/4-themes-show-and-tell.png)
+
 The themes are:
 
 * **introducing agile service design** - introducing techniques with practical activities and fast-paced design challenges
