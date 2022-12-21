@@ -27,7 +27,7 @@ We’ve spent [8 days over 4 weeks](https://learnbymaking.wales/en/the-labs/) ex
 
 There’s a long list of things we’d love to improve by iterating. For instance, we’d tweak the onboarding and some of the session content. There’s a tonne of things we’ve learned about logistics that would make it easier next time. All the things you only learn by doing, but here’s 5 big lessons learned.
 
-## Lesson 1: It needs to be a safe to experiment
+## Lesson 1: It needs to be safe to experiment
 
 The best teams have empathy for their users and each other. We dedicated time to thinking about both, but we started by [getting to know each other](https://learnbymaking.wales/en/the-labs/session/one.html). We thought this was an important investment to ensure that ten relative strangers felt comfortable together.
 
@@ -70,8 +70,6 @@ We didn’t do anything consciously.
 Right from the start we were upfront about Learn by making being an experiment and that we were also testing and learning as we went.  
 
 It turns out that by demonstrating this way of working ourselves, having a natural bias toward momentum, starting small and working in increments rubbed off as a way of working that they wanted to take forward. Seeing how we approached and solved problems was really valuable for them.
-
-Learn by making is a tiny slice of agile service delivery that needs experts to lead it. It’s not painting by numbers, you need to have lived it to be able to lead, react and iterate in the labs setting.
 
 We asked 4 external experts present to us each week. Each is a leader in their field, who told stories and inspired new ways of thinking and working. This worked very well. [They loved it](https://nrw-lab.github.io/en/updates/2022/12/09/week-notes.html)! It allowed us to talk about how other organisations have approached similar problems and we all got to benefit from their experience.
 
