@@ -7,20 +7,22 @@ layout: page
 
 # Reading list
 
-## General
+
+## Product
 
 * [GDS Reading list: Product management learning list](https://docs.google.com/spreadsheets/d/15bimOfA5EYpvfC3UbU8MUV-qUjhSKdcrukHisQqNzhU/edit#gid=0)
 * [Jayson Robinson's fab list of product-y goodness](https://twitter.com/jaysonrobinson/status/1423568645188472834?s=20&t=UlEXFlHCcEhIQlF-ZB7LKg) 
 {: .app-list--plain}
 
-## Accessibility
-
-
-## [the human side of delivery](https://consultantmicro.medium.com/the-human-side-of-delivery-in-a-remote-world-f7050391494f) - a list of ways to develop team empathy.
+## Accessibility
 
 * [Consider the range of people that will use your product or service](https://accessibility.blog.gov.uk/2016/05/16/consider-the-range-of-people-that-will-use-your-product-or-service/)
 * [What we mean when we talk about accessibility](https://accessibility.blog.gov.uk/2016/05/16/consider-the-range-of-people-that-will-use-your-product-or-service/)
 {: .app-list--plain}
+
+## Teams  
+
+* [the human side of delivery](https://consultantmicro.medium.com/the-human-side-of-delivery-in-a-remote-world-f7050391494f) - a list of ways to develop team empathy.
 
 ## Git, GitHub and Markdown
 
