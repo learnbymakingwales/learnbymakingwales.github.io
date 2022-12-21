@@ -19,5 +19,6 @@ By the end of the session we'll be able to show:
 ## Learning outcomes
 
 * how to identify which parts of a user journey are most suitable for prototyping
+* experience co-design and working through a potential solution as a team
 * how to build a backlog of tasks that allow everyone in a multi-disciplinary team to contribute
 

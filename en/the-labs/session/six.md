@@ -16,5 +16,6 @@ What is made will depend a lot on the problem that was identified in [previous s
 ## Learning outcomes
 
 * how to get started with a prototyping kit
+* the essentials of sprints - plan, make, show
 * how sharing things early can help the team stay focused on the right things  
 * the value "done enough" vs "perfect"
