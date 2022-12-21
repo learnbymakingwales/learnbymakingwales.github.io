@@ -15,6 +15,9 @@ layout: page
 
 ## Accessibility
 
+
+## [the human side of delivery](https://consultantmicro.medium.com/the-human-side-of-delivery-in-a-remote-world-f7050391494f) - a list of ways to develop team empathy.
+
 * [Consider the range of people that will use your product or service](https://accessibility.blog.gov.uk/2016/05/16/consider-the-range-of-people-that-will-use-your-product-or-service/)
 * [What we mean when we talk about accessibility](https://accessibility.blog.gov.uk/2016/05/16/consider-the-range-of-people-that-will-use-your-product-or-service/)
 {: .app-list--plain}
