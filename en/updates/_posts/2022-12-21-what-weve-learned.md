@@ -57,9 +57,9 @@ We ran a couple of sessions around user research:
 
 We experimented with 2 approaches to hands-on learning - an abstract [design challenge](https://learnbymaking.wales/en/resource/design-challenge.html) and a specific [area of the NRW website](https://naturalresources.wales/permits-and-permissions/?lang=en). We learned:
 
-* There was value in exploring concepts in the abstract because it allowed us to step outside of the the day-to-day. For us this meant setting a design challenge around a festival and [it worked well](https://learnbymaking.wales/en/updates/2022/11/25/week-seven.html).
+* There was value in exploring concepts in the abstract because it allowed us to step outside of the the day-to-day. 
 
-* Something relevant is more impactful than something abstract. The value here was to pick a problem to focus on together. Had we decided on a specific problem to focus on up-front, we’d have missed the opportunity to explore and talk through what makes an ideal area to explore and prototype. Making it relevant increases the chances of the work being taken forward.
+* Something relevant is more impactful than something abstract. The value here was to pick a problem to focus on together. Had we decided on a specific problem to focus on up-front, we’d have missed the opportunity to talk through what makes an ideal area to explore and prototype. Making it relevant increases the chances of the work being taken forward.
 
 ## Lesson 5: People learn by watching experts work together
 
