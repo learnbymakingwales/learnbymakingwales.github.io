@@ -22,7 +22,7 @@ The themes are:
   * [Session 2](/en/the-labs/session/two.html)
   {: .app-session-list}
 
-* **how to research the problem space** - experience qualitative and quantative research techniques and learn how to identify and prioritise problems to solve
+* **how to research the problem space** - experience qualitative and quantative research techniques, learn how to identify and prioritise problems to solve and learn about inclusive design
   * [Session 3](/en/the-labs/session/three.html)
   * [Session 4](/en/the-labs/session/four.html)
   {: .app-session-list}
@@ -32,7 +32,7 @@ The themes are:
   * [Session 6](/en/the-labs/session/six.html)
   {: .app-session-list}
 
-* **how to build momentum** - explore how sharing in the open builds momentum
+* **how to build momentum** - test your prototype for real and explore how sharing in the open builds momentum
   * [Session 7](/en/the-labs/session/seven.html)
   * [Session 8](/en/the-labs/session/eight.html)
   {: .app-session-list}
