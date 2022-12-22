@@ -38,6 +38,12 @@ There is some [documentation](https://github.com/learnbymakingwales/project-site
 * [What is Git?](/en/resource/what-is-git.html)
 * [Tips for writing weeknotes](/en/resource/tips-for-writing-weeknotes.html)
 * [Data-driven content design tips](/en/resource/content-design-tips.html)
+{: .app-list--plain}
+
+## User research
+
+* [Discussion guide template](/en/resource/discussion-guide-template.pdf)
+* [Recruitment screener template](/en/resource/recruitment-sceener-template.pdf)
 * [User research anaylsis tips](/en/resource/user-research-analysis-tips.html)
 {: .app-list--plain}
 
