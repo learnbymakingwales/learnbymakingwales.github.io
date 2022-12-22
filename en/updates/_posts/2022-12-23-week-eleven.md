@@ -75,10 +75,3 @@ And of course, the team from NRW whose enthusiastic participation and willingnes
 All our code is available on [GitHub](https://github.com/orgs/learnbymakingwales/repositories).
 
 If you’d like to get in touch or you’d like to get updates by email, drop us a message at [hello@learnbymaking.wales](mailTo:hello@learnbymaking.wales)
-
-
-
-## Get involved
-All our code is available on [GitHub](https://github.com/orgs/learnbymakingwales/repositories).
-
-If you’d like to get in touch or you’d like to get updates by email, drop us a message at [hello@learnbymaking.wales](mailTo:hello@learnbymaking.wales)
