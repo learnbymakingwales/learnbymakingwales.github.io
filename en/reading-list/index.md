@@ -22,7 +22,8 @@ layout: page
 
 ## Teams  
 
-* [the human side of delivery](https://consultantmicro.medium.com/the-human-side-of-delivery-in-a-remote-world-f7050391494f) - a list of ways to develop team empathy.
+* [The human side of delivery](https://consultantmicro.medium.com/the-human-side-of-delivery-in-a-remote-world-f7050391494f) - a list of ways to develop team empathy.
+{: .app-list--plain}
 
 ## Git, GitHub and Markdown
 
