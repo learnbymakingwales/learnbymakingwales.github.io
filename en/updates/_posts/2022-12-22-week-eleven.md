@@ -6,7 +6,7 @@ layout: post
 ---
 
 # Week eleven
-### 23 December 2022
+### 22 December 2022
 
 How is it week 11 already!? The time has absolutely flown by, but it's been fun. A lot of fun.
 
