@@ -25,4 +25,3 @@ Fodd bynnag, bydd cyfle i'r tîm ddiweddaru'r wefan am [sesiwn un](/sesiwn-un) g
 * Dechrau'n fach a dysgu wrth fynd
 * Gofalu am eich defnyddwyr dros eich cynnyrch
 *  Pwysigrwydd dolenni adborth
-
