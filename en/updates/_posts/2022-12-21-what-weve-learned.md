@@ -29,7 +29,7 @@ There’s a long list of things we’d love to improve by iterating. For instanc
 
 ## Lesson 1: It needs to be safe to experiment
 
-We dedicated time to [getting to know each other](https://learnbymaking.wales/en/the-labs/session/one.html). We thought this was an important investment to ensure that ten relative strangers felt comfortable together. The best teams are empathatic.
+We dedicated time to [getting to know each other](https://learnbymaking.wales/en/the-labs/session/one.html). We thought this was an important investment to ensure that ten relative strangers felt comfortable together. 
 
 The big lesson though was that it was equally important to make people feel safe exploring a problem. For example, questions like: “Do we have permission to rethink this?”, “Should we ask person-x before we do this?”, “Are we allowed to say something isn’t working?”. If people don’t feel comfortable doing this then it’s hard to apply creative thinking, work in the open and demonstrate new ways to solve a problem. We learned that making it safe to play and think differently in areas in which participants don’t normally work is essential.
 
