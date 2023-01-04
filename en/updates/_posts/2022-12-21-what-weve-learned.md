@@ -32,19 +32,19 @@ There’s a long list of things we’d love to improve by iterating. For instanc
 
 ## Lesson 1: It needs to be safe to experiment
 
-The best teams have empathy for their users and each other. We dedicated time to thinking about both, but we started by [getting to know each other](https://learnbymaking.wales/en/the-labs/session/one.html). We thought this was an important investment to ensure that ten relative strangers felt comfortable together.
+We dedicated time to [getting to know each other](https://learnbymaking.wales/en/the-labs/session/one.html). We thought this was an important investment to ensure that ten relative strangers felt comfortable together. 
 
-The big lesson though was that it was equally important to make participants feel safe exploring a problem, especially when it related to their own organisation. For example, questions like: “Do we have permission to rethink this?”, “Should we ask person-x before we do this?”, “Are we allowed to say something isn’t working?”. If people don’t feel comfortable doing this then it’s hard to apply creative thinking, work in the open and demonstrate new ways to solve a problem. We learned that making it safe to play and think differently in areas in which participants don’t normally work is essential.
+The big lesson though was that it was equally important to make people feel safe exploring a problem. For example, questions like: “Do we have permission to rethink this?”, “Should we ask person-x before we do this?”, “Are we allowed to say something isn’t working?”. If people don’t feel comfortable doing this then it’s hard to apply creative thinking, work in the open and demonstrate new ways to solve a problem. We learned that making it safe to experiment with real-life, work-related problems is essential.
 
 ## Lesson 2: Making things is a great way to learn and communicate ideas
 
-The purpose of Learn by making was to make things and put them in front of users - quickly! By doing this, free from organisational constraints, we learned that:
+The purpose of Learn by making was to make things and put them in front of users - quickly! By doing this we learned that:
 
-* Making things together is a fantastic way to learn. Participants had the opportunity to put theory into practice and actively experiment with new skills.
+* Making things together is a fantastic way to learn and actively experiment with new skills.
 
-* Showing a prototype to colleagues is a powerful way to open the conversation about new possibilities and mental models. It demonstrates an idea better than just talking about a concept. Prototypes have the potential to change the conversation within organisations and allow others to be inspired and see things differently. If you can achieve this in a few days then it could save a lot of time and money.
+* Showing a prototype demonstrates an idea better than just talking about a concept. Prototypes have the potential to change the conversation within organisations and allow others to be inspired and see things differently. If you can achieve this in a few days then it could save a lot of time and money.
 
-## Lesson 3: You need to experience user research to get it
+## Lesson 3: Experiencing user research is essential for Labs
 
 When we first started Learn by making, [a lot of people told us](https://twitter.com/itsallgonewrong/status/1580493265769402371) that user research was something they didn’t understand in their bones until they’d done it. How true this is.
 
@@ -56,7 +56,7 @@ We ran a couple of sessions around user research:
 
 * User feedback helped give our participants confidence that their hunches were right and gave them powerful video evidence to take to their senior team. The case for change was stronger for it.
 
-## Lesson 4: It’s hard to find the right Labs-sized problem to explore and prototype
+## Lesson 4: It’s hard to find the right problem to explore and prototype
 
 We experimented with 2 approaches to hands-on learning - an abstract [design challenge](https://learnbymaking.wales/en/resource/design-challenge.html) and a specific [area of the NRW website](https://naturalresources.wales/permits-and-permissions/?lang=en). We learned:
 
@@ -64,7 +64,7 @@ We experimented with 2 approaches to hands-on learning - an abstract [design cha
 
 * Something relevant is more impactful than something abstract. The value here was to pick a problem to focus on together. Had we decided on a specific problem to focus on up-front, we’d have missed the opportunity to talk through what makes an ideal area to explore and prototype. Making it relevant increases the chances of the work being taken forward.
 
-## Lesson 5: People learn by watching experts work together
+## Lesson 5: People learn by watching and talking to others
 
 One lovely bit of feedback we had from participants was that they valued seeing the Learn by making team work together and how we collaborated and approached things.  
 
@@ -74,7 +74,7 @@ Right from the start we were upfront about Learn by making being an experiment a
 
 It turns out that by demonstrating this way of working ourselves, having a natural bias toward momentum, starting small and working in increments rubbed off as a way of working that they wanted to take forward. Seeing how we approached and solved problems was really valuable for them.
 
-We asked 4 external experts present to us each week. Each is a leader in their field, who told stories and inspired new ways of thinking and working. This worked very well. [They loved it](https://nrw-lab.github.io/en/updates/2022/12/09/week-notes.html)! It allowed us to talk about how other organisations have approached similar problems and we all got to benefit from their experience.
+We asked 4 external experts present to us each week. Each is a leader in their field, who told stories and inspired new ways of thinking and working. This worked very well. [They loved it](https://nrw-lab.github.io/en/updates/2022/12/09/week-notes.html)! It allowed us to talk about how other organisations have approached similar problems and we all got to benefit from their experience.  Thank you very much [Richard Pope](https://twitter.com/richardjpope), [Alistair Duggin](https://twitter.com/dugboticus), [Sarah Winters](https://twitter.com/ContentDesignLN) and [Giles Turnbull](https://twitter.com/gilest) for sharing and making time for us.
 
 
 ## Final thoughts 
