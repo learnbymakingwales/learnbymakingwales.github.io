@@ -3,9 +3,21 @@ title: Week eleven
 lang: en
 ref: week-eleven
 layout: post
+author:
+  - name: Matt
+    url: https://twitter.com/mattlucht
+  - name: Colm
+    url: https://colmjude.com
+  - name: Jamie
+    url: https://twitter.com/itsallgonewrong
+  - name: Gwen
+    url: https://twitter.com/cheesecake_b
+  - name: Gabi
+    url: https://twitter.com/gabim_e
+  - name: Alaw
+    url: https://twitter.com/AlawJohn
 ---
 
-# Week eleven
 ### 22 December 2022
 
 How is it week 11 already!? The time has absolutely flown by, but it's been fun. A lot of fun.
