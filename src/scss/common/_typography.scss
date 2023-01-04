@@ -16,5 +16,7 @@
 
 .app-phonetic {
   --phonetic-colour: #{$lbm-red};
+  padding: 0 var(--base-font-size);
   color: var(--phonetic-colour);
+  font-style: italic;
 }

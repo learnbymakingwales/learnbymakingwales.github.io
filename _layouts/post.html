@@ -11,7 +11,12 @@
 
   <article class="lbm-container lbm-markdown-output">
     <header class="lbm-post__header">
-      <h1 class="lbm-post__title">{{page.title}}</h1>
+      <h1 class="lbm-post__title">{{page.title}}
+        {%- if page.title-extra %}
+          {%- if page.title-extra.phonetic %} (<span class="app-phonetic">{{ page.title-extra.phonetic }}</span>){% endif %}
+          {%- if page.title-extra.append %}{{ page.title-extra.append }}{% endif %}
+        {% endif -%}
+      </h1>
       {% if page.author %}
       <div class="lbm-post__meta">
         {{ site.t[page.lang].by | capitalize }} 

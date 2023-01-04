@@ -192,7 +192,9 @@
 
 .app-phonetic {
   --phonetic-colour: #e33b43;
+  padding: 0 var(--base-font-size);
   color: var(--phonetic-colour);
+  font-style: italic;
 }
 
 .app-multi-image {
