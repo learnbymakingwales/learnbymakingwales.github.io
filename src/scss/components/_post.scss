@@ -1,0 +1,21 @@
+.lbm-post__header {
+  margin: var(--vertical-spacing--small) 0;
+
+  @include mq($from: tablet) {
+    margin: var(--vertical-spacing) 0;
+  }
+
+  .lbm-post__title {
+    margin: 0;
+  }
+
+  .lbm-post__meta {
+    margin-top: 5px;
+    color: var(--secondary-text-colour);
+    font-size: var(--base-font-size);
+
+    @include mq($from: tablet) {
+      font-size: var(--small-screen-font-size);
+    }
+  }
+}

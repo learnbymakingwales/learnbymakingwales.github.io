@@ -3,9 +3,19 @@ title: Week three
 lang: en
 ref: week-three
 layout: post
+author:
+  - name: Jamie
+    url: https://twitter.com/itsallgonewrong
+  - name: Colm
+    url: https://twitter.com/colmbritton
+  - name: Gwen
+    url: https://twitter.com/cheesecake_b
+  - name: Matt
+    url: https://twitter.com/mattlucht
+  - name: Alaw
+    url: https://twitter.com/AlawJohn
 ---
 
-# Week three
 ### 28 October 2022
 
 ## Dysgu trwy greu

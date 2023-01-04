@@ -99,6 +99,7 @@
   --page-padding-large: 45px;
   --x-small-font-size: 16px;
   --secondary-text-colour: #696662;
+  --vertical-spacing--small: 20px;
 }
 
 .lbm-visually-hidden {
@@ -326,6 +327,28 @@
 }
 .lbm-markdown-output img {
   max-width: 100%;
+}
+
+.lbm-post__header {
+  margin: var(--vertical-spacing--small) 0;
+}
+@media (min-width: 46.25em) {
+  .lbm-post__header {
+    margin: var(--vertical-spacing) 0;
+  }
+}
+.lbm-post__header .lbm-post__title {
+  margin: 0;
+}
+.lbm-post__header .lbm-post__meta {
+  margin-top: 5px;
+  color: var(--secondary-text-colour);
+  font-size: var(--base-font-size);
+}
+@media (min-width: 46.25em) {
+  .lbm-post__header .lbm-post__meta {
+    font-size: var(--small-screen-font-size);
+  }
 }
 
 .app-top-bar {

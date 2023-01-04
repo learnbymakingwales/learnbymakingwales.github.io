@@ -2,10 +2,13 @@
 title: What we've learned so far
 lang: en
 ref: what-weve-learned
-layout: page
+layout: post
+author:
+  - name: Jamie
+    url: https://twitter.com/itsallgonewrong
+  - name: Gwen
+    url: https://twitter.com/cheesecake_b
 ---
-
-# What we’ve learned so far
 
 Learn by making is a [CDPS](https://digitalpublicservices.gov.wales/) sponsored experiment to explore the idea that people learn best by doing something, rather than being told something. And we think it worked. 
 

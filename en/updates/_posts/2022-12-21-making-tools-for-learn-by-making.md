@@ -2,10 +2,11 @@
 title: Making tools for learn by making
 lang: en
 ref: making-tools
-layout: page
+layout: post
+author:
+  - name: Colm
+    url: https://colmjude.com
 ---
-
-# Making tools for learn by making
 
 Working in the open and being able to make digital things are essential to the Learn by making experience. 
 

@@ -24,6 +24,7 @@ t:
     labs: The labs
     resources: resources
     powered_by: powered by
+    by: by
     cdps:
       name: Centre for Digital Public Services
       url: https://digitalpublicservices.gov.wales/
@@ -37,6 +38,7 @@ t:
     labs: Y labordai
     resources: adnoddau
     powered_by: wedi ei bweru gan
+    by: gan
     cdps:
       name: Canolfan Gwasanaethau Cyhoeddus Digidol
       url: https://gwasanaethaucyhoeddusdigidol.llyw.cymru/

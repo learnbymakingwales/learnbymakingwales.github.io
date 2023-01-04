@@ -3,9 +3,21 @@ title: Week eight
 lang: en
 ref: week-eight
 layout: post
+author:
+  - name: Matt
+    url: https://twitter.com/mattlucht
+  - name: Colm
+    url: https://twitter.com/colmbritton
+  - name: Jamie
+    url: https://twitter.com/itsallgonewrong
+  - name: Gwen
+    url: https://twitter.com/cheesecake_b
+  - name: Gabi
+    url: https://twitter.com/gabim_e
+  - name: Alaw
+    url: https://twitter.com/AlawJohn
 ---
 
-# Week eight
 ### 2 December 2022
 
 We’ve had another couple of fabulous Labs sessions. This week we switched focus to exploring and making things relating to Natural Resources Wales (NRW) and we also invited a couple of special guests.

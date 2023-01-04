@@ -3,9 +3,21 @@ title: Week seven
 lang: en
 ref: week-seven
 layout: post
+author:
+  - name: Matt
+    url: https://twitter.com/mattlucht
+  - name: Gabi
+    url: https://twitter.com/gabim_e
+  - name: Colm
+    url: https://twitter.com/colmbritton
+  - name: Jamie
+    url: https://twitter.com/itsallgonewrong
+  - name: Gwen
+    url: https://twitter.com/cheesecake_b
+  - name: Alaw
+    url: https://twitter.com/AlawJohn
 ---
 
-# Week seven
 ### 25 November 2022
 
 This week we ran our first two Learn by making / Dysgu trwy greu sessions. I think it's fair to say that we went into the sessions excited, but also with a slight nervousness about how the days would go! …spoiler-alert — we had a lot of fun!
