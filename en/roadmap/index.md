@@ -76,5 +76,3 @@ Labs has started with a team supporting a single organisation tackling a single 
 
 * A funding model has been identified that works across organisations
 * We've run a labs session that supports both Welsh and English language
-
----
