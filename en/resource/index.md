@@ -46,7 +46,9 @@ We have written a couple of guides to help people starting out with Git and Mark
 
 ### Service blueprints
 
-[A basic service blueprint template](/en/resource/a-basic-service-blueprint-template.png)
+* [A basic service blueprint template](/en/resource/a-basic-service-blueprint-template.png)
+* [How to use Service blueprints](/en/resource/how-to-use-service-blueprints.html)
+{: .app-list--plain}
 
 
 ### User research
