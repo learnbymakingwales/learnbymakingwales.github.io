@@ -3,9 +3,10 @@ title: How to use Service blueprints
 lang: en
 ref: how-to-service-blueprints
 layout: page
+author:
+  - name: Colm
+    url: https://colmjude.com/
 ---
-
-# How to use Service blueprints
 
 Service blueprints are a good tool for understanding what is needed to deliver a service. They allow you to zoom out and explore the complete service, piece by piece, action by action.
 
@@ -29,7 +30,9 @@ We recommend starting with these. You can then add extra information to your blu
 
 It is important to create your Service blueprints together. You will be forced to talk about things you might have otherwise overlooked by working on it together and showing it to stakeholders.
 
+
 ### Pick a specific scenario
+
 
 Start by picking a scenario.
 

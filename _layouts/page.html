@@ -10,6 +10,18 @@
   </div>
 
   <div class="lbm-container lbm-markdown-output">
+    {% if page.author %}
+    <header class="lbm-post__header">
+      <h1 class="lbm-post__title">{{page.title}}</h1>
+      <div class="lbm-post__meta">
+        {{ site.t[page.lang].by | capitalize }} 
+        {% for a in page.author -%}
+        {% assign second_last = forloop.length | minus: 1 %}
+        <span class="post-author"><a href="{{ a.url }}">{{ a.name }}</a></span>{% unless forloop.last %}{% if forloop.index == second_last %} and{% else %},{% endif %} {% endunless -%}
+        {% endfor %}
+      </div><!-- .post-meta -->
+    </header>
+    {% endif %}
     {{ content }}
   </div>
 
