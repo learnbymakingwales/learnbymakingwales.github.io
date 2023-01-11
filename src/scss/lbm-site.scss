@@ -14,9 +14,11 @@
 @import "components/markdown-container";
 @import "components/post";
 @import "components/nav";
+@import "components/team";
 
 :root {
   --accent-colour: #{$lbm-red};
+  --border-colour:  var(--secondary-text-colour);
 }
 
 .lbm-title,

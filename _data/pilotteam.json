@@ -1,0 +1,141 @@
+{
+  "name": {
+    "en": "Pilot team",
+    "cy": ""
+  },
+  "members": [
+    {
+      "name": "Jamie Arnold",
+      "image": "/assets/images/team/jamie.jpeg",
+      "role": {
+        "en": "Digital delivery",
+        "cy": ""
+      },
+      "links": [
+        {
+          "label": "www.jamiearnold.com",
+          "url": "https://www.jamiearnold.com/"
+        },
+        {
+          "label": "@itsallgonewrong",
+          "url": "https://twitter.com/itsallgonewrong",
+          "append": " on twitter"
+        },
+        {
+          "label": "Jamie Arnold",
+          "url": "https://www.linkedin.com/in/jamiearnold/",
+          "append": " on Linkedin"
+        }
+      ]
+    },
+    {
+      "name": "Colm Britton",
+      "image": "/assets/images/team/colm.jpeg",
+      "role": {
+        "en": "Design",
+        "cy": ""
+      },
+      "links": [
+        {
+          "label": "colmjude.com",
+          "url": "https://colmjude.com/"
+        },
+        {
+          "label": "@colmbritton",
+          "url": "https://twitter.com/colmbritton",
+          "append": " on twitter"
+        },
+        {
+          "label": "Colm Britton",
+          "url": "https://www.linkedin.com/in/colmjude/",
+          "append": " on Linkedin"
+        }
+      ]
+    },
+    {
+      "name": "Gwen Henderson",
+      "image": "/assets/images/team/gwen.jpeg",
+      "role": {
+        "en": "Content design",
+        "cy": ""
+      },
+      "links": [
+        {
+          "label": "@cheesecake_b",
+          "url": "https://twitter.com/cheesecake_b",
+          "append": " on twitter"
+        },
+        {
+          "label": "Gwen Henderson",
+          "url": "https://www.linkedin.com/in/gwen-henderson-7a16538",
+          "append": " on Linkedin"
+        }
+      ]
+    },
+    {
+      "name": "Matt Lucht",
+      "image": "/assets/images/team/matt.jpeg",
+      "role": {
+        "en": "Delivery",
+        "cy": ""
+      },
+      "links": [
+        {
+          "label": "@mattlucht",
+          "url": "https://twitter.com/mattlucht",
+          "append": " on twitter"
+        },
+        {
+          "label": "Matt Lucht",
+          "url": "https://www.linkedin.com/in/mattlucht/",
+          "append": " on Linkedin"
+        }
+      ]
+    },
+    {
+      "name": "Gabi ",
+      "image": "/assets/images/team/gabi.jpeg",
+      "role": {
+        "en": "User research",
+        "cy": ""
+      },
+      "links": [
+        {
+          "label": "medium.com/@gabimitchem",
+          "url": "https://medium.com/@gabimitchem"
+        },
+        {
+          "label": "@gabim_e",
+          "url": "https://twitter.com/gabim_e",
+          "append": " on twitter"
+        },
+        {
+          "label": "Gabi Mitchem-Evans",
+          "url": "https://www.linkedin.com/in/gabimitchem/",
+          "append": " on Linkedin"
+        }
+      ]
+    },
+    {
+      "name": "Alaw John",
+      "image": "/assets/images/team/alaw.jpeg",
+      "role": {
+        "en": "Welsh content design",
+        "cy": ""
+      },
+      "links": [
+        {
+          "label": "@AlawJohn",
+          "url": "https://twitter.com/AlawJohn",
+          "append": " on twitter"
+        },
+        {
+          "label": "Alaw John",
+          "url": "https://www.linkedin.com/in/alaw-john-01b7a41b7/",
+          "append": " on Linkedin"
+        }
+      ]
+    }
+  ]
+}
+

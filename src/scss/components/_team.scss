@@ -1,0 +1,44 @@
+.lbm-team {
+  border-top: 2px solid var(--border-colour);
+
+  .lbm-team__list {
+    padding-left: 0;
+    list-style: none;
+  }
+
+  .lbm-team__member {
+    --bottom-margin: var(--page-padding-small);
+    margin-bottom: calc(var(--bottom-margin) * 2);
+    @include mq($from: tablet) {
+      --bottom-margin: var(--page-padding-large);
+    }
+  }
+
+  .lbm-team__member-links ul {
+    padding-left: 0;
+    list-style: none;
+  }
+}
+
+.lbm-team__member-head {
+  display: flex;
+  align-items: center;
+}
+
+.lbm-team__member-name {
+  margin: 0;
+}
+
+
+.lbm-team__img {
+  --image-size: calc(var(--page-padding-large) * 2);
+  width: var(--image-size);
+  height: var(--image-size);
+  margin-right: var(--page-padding-small);
+  border-radius: 50%;
+}
+
+.lbm-team__member-links__title {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}

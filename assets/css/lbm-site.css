@@ -635,8 +635,52 @@
   }
 }
 
+.lbm-team {
+  border-top: 2px solid var(--border-colour);
+}
+.lbm-team .lbm-team__list {
+  padding-left: 0;
+  list-style: none;
+}
+.lbm-team .lbm-team__member {
+  --bottom-margin: var(--page-padding-small);
+  margin-bottom: calc(var(--bottom-margin) * 2);
+}
+@media (min-width: 46.25em) {
+  .lbm-team .lbm-team__member {
+    --bottom-margin: var(--page-padding-large);
+  }
+}
+.lbm-team .lbm-team__member-links ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+.lbm-team__member-head {
+  display: flex;
+  align-items: center;
+}
+
+.lbm-team__member-name {
+  margin: 0;
+}
+
+.lbm-team__img {
+  --image-size: calc(var(--page-padding-large) * 2);
+  width: var(--image-size);
+  height: var(--image-size);
+  margin-right: var(--page-padding-small);
+  border-radius: 50%;
+}
+
+.lbm-team__member-links__title {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
 :root {
   --accent-colour: #e33b43;
+  --border-colour: var(--secondary-text-colour);
 }
 
 .lbm-title span,

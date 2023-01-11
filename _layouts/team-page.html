@@ -1,0 +1,44 @@
+{% assign title=page.title | append: " | " | append: site.t[page.lang].title  %}
+{% include pageStart.html title=title %}
+
+{% include topbar.html %}
+
+<main class="main">
+
+  <div class="lbm-container">
+    {% include language-toggle.html pages=site.pages %}
+  </div>
+
+  <div class="lbm-container lbm-markdown-output">
+    {{ content }}
+    {% if site.data['pilotteam'] %}
+    <div class="lbm-team">
+      <h2>{{ site.data['pilotteam'].name[page.lang] }}</h2>
+      <ul class="lbm-team__list">
+        {% for member in site.data['pilotteam'].members %}
+        <li class="lbm-team__member">
+          <div class="lbm-team__member-head">
+            <img class="lbm-team__img" src="{{ member.image }}" alt="Profile picture of {{ member.name }}">
+            <div class="lbm-team__member__info">
+              <h3 class="lbm-team__member-name">{{ member.name }}</h3>
+              <span>{{ member.role[page.lang] }}</span>
+            </div>
+          </div>
+          <div class="lbm-team__member-links">
+            <h4 class="lbm-team__member-links__title">Where to find them</h4>
+            <ul>
+              {% for link in member.links %}
+              <li><a href="{{ link.url }}">{{ link.label }}</a>{% if link.append %}{{ link.append }}{% endif %}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+  </div>
+
+</main>
+
+{% include pageEnd.html %}
