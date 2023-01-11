@@ -29,6 +29,7 @@ t:
       name: Centre for Digital Public Services
       url: https://digitalpublicservices.gov.wales/
       acronym: CDPS
+    find_them: Where to find them
   cy:
     title: Dysgu trwy greu
     language: Cymraeg
@@ -43,3 +44,4 @@ t:
       name: Canolfan Gwasanaethau Cyhoeddus Digidol
       url: https://gwasanaethaucyhoeddusdigidol.llyw.cymru/
       acronym: CGCD
+    find_them: ""

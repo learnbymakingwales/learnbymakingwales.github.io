@@ -19,12 +19,18 @@
         {
           "label": "@itsallgonewrong",
           "url": "https://twitter.com/itsallgonewrong",
-          "append": " on twitter"
+          "append": {
+            "en": " on Twitter",
+            "cy": ""
+          }
         },
         {
           "label": "Jamie Arnold",
           "url": "https://www.linkedin.com/in/jamiearnold/",
-          "append": " on Linkedin"
+          "append": {
+            "en": " on Linkedin",
+            "cy": ""
+          }
         }
       ]
     },
@@ -43,12 +49,18 @@
         {
           "label": "@colmbritton",
           "url": "https://twitter.com/colmbritton",
-          "append": " on twitter"
+          "append": {
+            "en": " on Twitter",
+            "cy": ""
+          }
         },
         {
           "label": "Colm Britton",
           "url": "https://www.linkedin.com/in/colmjude/",
-          "append": " on Linkedin"
+          "append": {
+            "en": " on Linkedin",
+            "cy": ""
+          }
         }
       ]
     },
@@ -63,12 +75,18 @@
         {
           "label": "@cheesecake_b",
           "url": "https://twitter.com/cheesecake_b",
-          "append": " on twitter"
+          "append": {
+            "en": " on Twitter",
+            "cy": ""
+          }
         },
         {
           "label": "Gwen Henderson",
           "url": "https://www.linkedin.com/in/gwen-henderson-7a16538",
-          "append": " on Linkedin"
+          "append": {
+            "en": " on Linkedin",
+            "cy": ""
+          }
         }
       ]
     },
@@ -83,12 +101,18 @@
         {
           "label": "@mattlucht",
           "url": "https://twitter.com/mattlucht",
-          "append": " on twitter"
+          "append": {
+            "en": " on Twitter",
+            "cy": ""
+          }
         },
         {
           "label": "Matt Lucht",
           "url": "https://www.linkedin.com/in/mattlucht/",
-          "append": " on Linkedin"
+          "append": {
+            "en": " on Linkedin",
+            "cy": ""
+          }
         }
       ]
     },
@@ -107,12 +131,18 @@
         {
           "label": "@gabim_e",
           "url": "https://twitter.com/gabim_e",
-          "append": " on twitter"
+          "append": {
+            "en": " on Twitter",
+            "cy": ""
+          }
         },
         {
           "label": "Gabi Mitchem-Evans",
           "url": "https://www.linkedin.com/in/gabimitchem/",
-          "append": " on Linkedin"
+          "append": {
+            "en": " on Linkedin",
+            "cy": ""
+          }
         }
       ]
     },
@@ -127,12 +157,18 @@
         {
           "label": "@AlawJohn",
           "url": "https://twitter.com/AlawJohn",
-          "append": " on twitter"
+          "append": {
+            "en": " on Twitter",
+            "cy": ""
+          }
         },
         {
           "label": "Alaw John",
           "url": "https://www.linkedin.com/in/alaw-john-01b7a41b7/",
-          "append": " on Linkedin"
+          "append": {
+            "en": " on Linkedin",
+            "cy": ""
+          }
         }
       ]
     }

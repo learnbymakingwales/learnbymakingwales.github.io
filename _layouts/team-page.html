@@ -25,10 +25,10 @@
             </div>
           </div>
           <div class="lbm-team__member-links">
-            <h4 class="lbm-team__member-links__title">Where to find them</h4>
+            <h4 class="lbm-team__member-links__title">{{ site.t[page.lang].find_them }}</h4>
             <ul>
               {% for link in member.links %}
-              <li><a href="{{ link.url }}">{{ link.label }}</a>{% if link.append %}{{ link.append }}{% endif %}</li>
+              <li><a href="{{ link.url }}">{{ link.label }}</a>{% if link.append %}{{ link.append[page.lang] }}{% endif %}</li>
               {% endfor %}
             </ul>
           </div>
