@@ -21,6 +21,6 @@ Learn by making is:
 * where you’ll work in the open to share what you’ve learned and made, and to get fast feedback
 * where you’ll design for continuous ‘aha!’ moments, whether they’re mini breakthroughs or mistakes to learn from
 
-Experts will lead you, step-by-step, through applying user-centred design skills, prototyping, bilingual content and service design, user research, agile delivery techniques, data-led decision making, and working in the open.  
+[Experts](/en/team) will lead you, step-by-step, through applying user-centred design skills, prototyping, bilingual content and service design, user research, agile delivery techniques, data-led decision making, and working in the open.  
 
 If you want updates from us as we shape Learn by making, contact us on [hello@learnbymaking.wales](mailto:hello@learnbymaking.wales)

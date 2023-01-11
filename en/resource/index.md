@@ -9,7 +9,7 @@ category: resource
 
 The Dysgu trwy greu digital lab will introduce participants to concepts, methodologies and ideas used in digital delivery.
 
-We plan to share resources and artefacts as we go and will publish them here so that anyone can use them.
+[We](/en/team) plan to share resources and artefacts as we go and will publish them here so that anyone can use them.
 
 We have created a [reading list](/en/reading-list) where we link to all the great content we refer to in the lab sessions. 
 
