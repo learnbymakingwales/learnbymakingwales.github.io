@@ -32,18 +32,23 @@ __(*)Team:__
 __(*)Email address:__
 
 __(*)Title of your request__
+
 Give the request a name that describes what your request is about. Start the request with the title of the page you want to change.
 
 __(*)Existing page website address__
+
 Give the link of the page that needs to be updated
 
 __Are there any other pages affected?__
+
 Give the link of any other pages that need to be updated
 
 __(*)Details of the requested changes__
+
 Give details of what’s wrong, why it’s wrong, and what needs to be changed. It will help prioritise your request if you can give data to back up why the change needs to be made. For example, call centre data or user feedback.
 
 __(*)Are there any time constraints?__
+
 Yes or no
 
 __(*)If yes - when do you need a response by?__
@@ -61,15 +66,19 @@ __(*)Email address:__
 __(*)User need for new content:__
 
 __(*)As a...__
+
 Who is the user?
 
 __(*)I need to...__
+
 What is it that the user needs to do with the local authority?
 
 __(*)So that I...__
+
 What’s the goal that the user needs to reach?
 
 __More information__
+
 Tell us if there’s any other information we need to know about this request
 
 __(*)Have you spoken to anyone in comms about this request?__
@@ -89,15 +98,19 @@ __(*)Team:__
 __(*)Email address:__
 
 __(*)Existing page website address__
+
 Give the link of the page that needs to be removed and redirected
 
 __Are there any other pages affected?__
+
 Give the link of any other pages that need to be removed and redirected
 
 __(*)Details of the requested removal__
+
 Give details of what’s wrong, why it’s wrong, and why it needs to be removed. It will help prioritise your request if you can give data to back up why the page is no longer needed. For example, analytics, call centre data or user feedback.
 
 __(*)Are there any time constraints?__
+
 Yes or no
 
 __(*)If yes - when do you need a response by?__
