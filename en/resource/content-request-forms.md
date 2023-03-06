@@ -26,7 +26,9 @@ Mandatory questions have an asterisk next to them, for clarity.
 ## Changes to existing content
 
 __*Name:__
+
 __*Team:__
+
 __*email address:__
 
 __*Title of your request__
