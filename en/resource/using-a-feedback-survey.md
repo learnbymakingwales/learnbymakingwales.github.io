@@ -41,7 +41,7 @@ Here are some examples of how the feedback call to action looks on a variety of 
 
 ## A template survey
 
-As a part of the project funded by the Welsh Local Government Association we produced an [example template for capturing feedback about the council tax service](https://learnbymaking.wales/en/resource/discussion-guide-template.pdf).
+As a part of the project funded by the Welsh Local Government Association we produced an [example template for capturing feedback about the council tax service](https://learnbymaking.wales/en/resource/council-tax-feedback.pdf).
 
 ### Tips for using the template on your service
 
