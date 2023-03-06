@@ -57,6 +57,7 @@ We have written a couple of guides to help people starting out with Git and Mark
 * [Discussion guide template](/en/resource/discussion-guide-template.pdf)
 * [Recruitment screener template](/en/resource/recruitment-sceener-template.pdf)
 * [User research anaylsis tips](/en/resource/user-research-analysis-tips.html)
+* [Using a feedback survey](/en/resource/using-a-feedback-survey.html)
 {: .app-list--plain}
 
 ### Workshops
