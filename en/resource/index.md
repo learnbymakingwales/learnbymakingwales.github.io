@@ -17,6 +17,7 @@ We have created a [reading list](/en/reading-list) where we link to all the grea
 
 * [Tips for writing weeknotes](/en/resource/tips-for-writing-weeknotes.html)
 * [Data-driven content design tips](/en/resource/content-design-tips.html)
+* [Content request forms and how to use them](/en/resource/content-request-forms.html)
 {: .app-list--plain}
 
 ### Manual of me
